@@ -1,0 +1,1287 @@
+{
+    "Block 34": [
+        {
+            "id": 1,
+            "name": "Food Court A",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Masala Dosa",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 2,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 3,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 4,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 5,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Food Court B",
+            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Idli Sambar",
+            "dishes": [
+                {
+                    "id": 6,
+                    "name": "Rava Dosa",
+                    "price": 130,
+                    "description": "Crispy semolina dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 7,
+                    "name": "Medu Vada",
+                    "price": 70,
+                    "description": "Soft lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 8,
+                    "name": "Upma",
+                    "price": 80,
+                    "description": "Semolina breakfast dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 9,
+                    "name": "Pesarattu",
+                    "price": 110,
+                    "description": "Green gram dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 10,
+                    "name": "Bisi Bele Bath",
+                    "price": 120,
+                    "description": "Spicy rice and lentil dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Food Court C",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Fried Rice",
+            "dishes": [
+                {
+                    "id": 11,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 12,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 13,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 14,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 15,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Food Court D",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Manchurian",
+            "dishes": [
+                {
+                    "id": 16,
+                    "name": "Veg Schezwan Rice",
+                    "price": 160,
+                    "description": "Spicy schezwan fried rice",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 17,
+                    "name": "Veg Chow Mein",
+                    "price": 150,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 18,
+                    "name": "Veg Spring Rolls",
+                    "price": 130,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 19,
+                    "name": "Veg Fried Rice",
+                    "price": 140,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 20,
+                    "name": "Veg Manchurian",
+                    "price": 170,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Food Court E",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Spring Rolls",
+            "dishes": [
+                {
+                    "id": 21,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 22,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 23,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 24,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 25,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        }
+    ],
+    "Block 32": [
+        {
+            "id": 26,
+            "name": "Food Court A",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Masala Dosa",
+            "dishes": [
+                {
+                    "id": 26,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 27,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 28,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 29,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 30,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Food Court B",
+            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Idli Sambar",
+            "dishes": [
+                {
+                    "id": 31,
+                    "name": "Rava Dosa",
+                    "price": 130,
+                    "description": "Crispy semolina dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 32,
+                    "name": "Medu Vada",
+                    "price": 70,
+                    "description": "Soft lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 33,
+                    "name": "Upma",
+                    "price": 80,
+                    "description": "Semolina breakfast dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 34,
+                    "name": "Pesarattu",
+                    "price": 110,
+                    "description": "Green gram dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 35,
+                    "name": "Bisi Bele Bath",
+                    "price": 120,
+                    "description": "Spicy rice and lentil dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Food Court C",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Fried Rice",
+            "dishes": [
+                {
+                    "id": 36,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 37,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 38,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 39,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 40,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Food Court D",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Manchurian",
+            "dishes": [
+                {
+                    "id": 41,
+                    "name": "Veg Schezwan Rice",
+                    "price": 160,
+                    "description": "Spicy schezwan fried rice",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 42,
+                    "name": "Veg Chow Mein",
+                    "price": 150,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 43,
+                    "name": "Veg Spring Rolls",
+                    "price": 130,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 44,
+                    "name": "Veg Fried Rice",
+                    "price": 140,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 45,
+                    "name": "Veg Manchurian",
+                    "price": 170,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Food Court E",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Spring Rolls",
+            "dishes": [
+                {
+                    "id": 46,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 47,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 48,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 49,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 50,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        }
+    ],
+    "Uni Mall": [
+        {
+            "id": 51,
+            "name": "Food Court A",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Masala Dosa",
+            "dishes": [
+                {
+                    "id": 51,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 52,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 53,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 54,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 55,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Food Court B",
+            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Idli Sambar",
+            "dishes": [
+                {
+                    "id": 56,
+                    "name": "Rava Dosa",
+                    "price": 130,
+                    "description": "Crispy semolina dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 57,
+                    "name": "Medu Vada",
+                    "price": 70,
+                    "description": "Soft lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 58,
+                    "name": "Upma",
+                    "price": 80,
+                    "description": "Semolina breakfast dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 59,
+                    "name": "Pesarattu",
+                    "price": 110,
+                    "description": "Green gram dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 60,
+                    "name": "Bisi Bele Bath",
+                    "price": 120,
+                    "description": "Spicy rice and lentil dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Food Court C",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Fried Rice",
+            "dishes": [
+                {
+                    "id": 61,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 62,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 63,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 64,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 65,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Food Court D",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Manchurian",
+            "dishes": [
+                {
+                    "id": 66,
+                    "name": "Veg Schezwan Rice",
+                    "price": 160,
+                    "description": "Spicy schezwan fried rice",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 67,
+                    "name": "Veg Chow Mein",
+                    "price": 150,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 68,
+                    "name": "Veg Spring Rolls",
+                    "price": 130,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 69,
+                    "name": "Veg Fried Rice",
+                    "price": 140,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 70,
+                    "name": "Veg Manchurian",
+                    "price": 170,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Food Court E",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Spring Rolls",
+            "dishes": [
+                {
+                    "id": 71,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 72,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 73,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 74,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 75,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        }
+    ],
+    "Block 38": [
+        {
+            "id": 76,
+            "name": "Food Court A",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Masala Dosa",
+            "dishes": [
+                {
+                    "id": 76,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 77,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 78,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 79,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 80,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Food Court B",
+            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Idli Sambar",
+            "dishes": [
+                {
+                    "id": 81,
+                    "name": "Rava Dosa",
+                    "price": 130,
+                    "description": "Crispy semolina dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 82,
+                    "name": "Medu Vada",
+                    "price": 70,
+                    "description": "Soft lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 83,
+                    "name": "Upma",
+                    "price": 80,
+                    "description": "Semolina breakfast dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 84,
+                    "name": "Pesarattu",
+                    "price": 110,
+                    "description": "Green gram dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 85,
+                    "name": "Bisi Bele Bath",
+                    "price": 120,
+                    "description": "Spicy rice and lentil dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Food Court C",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Fried Rice",
+            "dishes": [
+                {
+                    "id": 86,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 87,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 88,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 89,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 90,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Food Court D",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Manchurian",
+            "dishes": [
+                {
+                    "id": 91,
+                    "name": "Veg Schezwan Rice",
+                    "price": 160,
+                    "description": "Spicy schezwan fried rice",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 92,
+                    "name": "Veg Chow Mein",
+                    "price": 150,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 93,
+                    "name": "Veg Spring Rolls",
+                    "price": 130,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 94,
+                    "name": "Veg Fried Rice",
+                    "price": 140,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 95,
+                    "name": "Veg Manchurian",
+                    "price": 170,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Food Court E",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Spring Rolls",
+            "dishes": [
+                {
+                    "id": 96,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 97,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 98,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 99,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 100,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        }
+    ],
+    "CSE Block": [
+        {
+            "id": 101,
+            "name": "Food Court A",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Masala Dosa",
+            "dishes": [
+                {
+                    "id": 101,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 102,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 103,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 104,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 105,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Food Court B",
+            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "cuisines": [
+                "South Indian"
+            ],
+            "speciality": "Idli Sambar",
+            "dishes": [
+                {
+                    "id": 106,
+                    "name": "Rava Dosa",
+                    "price": 130,
+                    "description": "Crispy semolina dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 107,
+                    "name": "Medu Vada",
+                    "price": 70,
+                    "description": "Soft lentil doughnuts",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 108,
+                    "name": "Upma",
+                    "price": 80,
+                    "description": "Semolina breakfast dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 109,
+                    "name": "Pesarattu",
+                    "price": 110,
+                    "description": "Green gram dosa",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 110,
+                    "name": "Bisi Bele Bath",
+                    "price": 120,
+                    "description": "Spicy rice and lentil dish",
+                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Food Court C",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Fried Rice",
+            "dishes": [
+                {
+                    "id": 111,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 112,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 113,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 114,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 115,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Food Court D",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Veg Manchurian",
+            "dishes": [
+                {
+                    "id": 116,
+                    "name": "Veg Schezwan Rice",
+                    "price": 160,
+                    "description": "Spicy schezwan fried rice",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 117,
+                    "name": "Veg Chow Mein",
+                    "price": 150,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 118,
+                    "name": "Veg Spring Rolls",
+                    "price": 130,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 119,
+                    "name": "Veg Fried Rice",
+                    "price": 140,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 120,
+                    "name": "Veg Manchurian",
+                    "price": 170,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Food Court E",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "cuisines": [
+                "Chinese"
+            ],
+            "speciality": "Spring Rolls",
+            "dishes": [
+                {
+                    "id": 121,
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 122,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 123,
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 124,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 125,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "category": "Chinese"
+                }
+            ]
+        }
+    ]
+}
