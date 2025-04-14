@@ -1,6 +1,6 @@
 FROM php:apache
 
-RUN apt-get update -y && apt-get install -y sendmail libpng-dev libfreetype6-dev libjpeg62-turbo-dev libgd-dev libpng-dev
+RUN apt-get update -y && apt-get install -y sendmail libpng-dev libfreetype6-dev libjpeg62-turbo-dev libgd-dev libpng-dev  php-mysqli
 
 RUN docker-php-ext-install pdo pdo_mysql 
 
