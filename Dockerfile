@@ -11,4 +11,4 @@ RUN docker-php-ext-configure gd \
 RUN docker-php-ext-install gd
 
 RUN mv "$PHP_INI_DIR/php.ini-development" "$PHP_INI_DIR/php.ini"
-COPY ./www /var/www/html
+COPY ./www /var/www
