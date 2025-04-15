@@ -10,7 +10,7 @@ define('DB_NAME', getenv('DB_NAME') ?: 'library');
 // $password = "";
 // $server = 'localhost';
 // $db = 'campuscuisine';
-$username = DB_HOST;
+$username = DB_USER;
 $password = DB_PASS;
 $server = DB_HOST;
 $db = DB_NAME;
