@@ -2,19 +2,19 @@
     "Block 34": [
         {
             "id": 1,
-            "name": "Food Court A",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "name": "Food Court 1",
+            "image": "./images/bh1/1.jpg",
+            "speciality": "Masala Dosa",
             "cuisines": [
                 "South Indian"
             ],
-            "speciality": "Masala Dosa",
             "dishes": [
                 {
                     "id": 1,
                     "name": "Masala Dosa",
                     "price": 120,
                     "description": "Crispy dosa with potato filling",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/dosa.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -22,7 +22,7 @@
                     "name": "Idli Sambar",
                     "price": 80,
                     "description": "Soft idlis with sambar",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/idli.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -30,7 +30,7 @@
                     "name": "Uttapam",
                     "price": 100,
                     "description": "South Indian pizza with toppings",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/uttapam.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -38,7 +38,7 @@
                     "name": "Vada",
                     "price": 60,
                     "description": "Crispy lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/vada.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -46,26 +46,26 @@
                     "name": "Pongal",
                     "price": 90,
                     "description": "Rice and lentil porridge",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/pongal.jpg",
                     "category": "South Indian"
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Food Court B",
-            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "name": "Food Court 2",
+            "image": "./images/bh1/2.jpg",
+            "speciality": "Idli Sambar",
             "cuisines": [
                 "South Indian"
             ],
-            "speciality": "Idli Sambar",
             "dishes": [
                 {
                     "id": 6,
                     "name": "Rava Dosa",
                     "price": 130,
                     "description": "Crispy semolina dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/ravadosa.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -73,7 +73,7 @@
                     "name": "Medu Vada",
                     "price": 70,
                     "description": "Soft lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/meduvada.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -81,7 +81,7 @@
                     "name": "Upma",
                     "price": 80,
                     "description": "Semolina breakfast dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/upma.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -89,7 +89,7 @@
                     "name": "Pesarattu",
                     "price": 110,
                     "description": "Green gram dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/pesarattu.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -97,26 +97,26 @@
                     "name": "Bisi Bele Bath",
                     "price": 120,
                     "description": "Spicy rice and lentil dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/bisibelebath.jpg",
                     "category": "South Indian"
                 }
             ]
         },
         {
             "id": 3,
-            "name": "Food Court C",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "name": "Food Court 3",
+            "image": "./images/bh1/3.jpg",
+            "speciality": "Veg Fried Rice",
             "cuisines": [
                 "Chinese"
             ],
-            "speciality": "Veg Fried Rice",
             "dishes": [
                 {
                     "id": 11,
                     "name": "Veg Fried Rice",
                     "price": 150,
                     "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/friedrice.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -124,7 +124,7 @@
                     "name": "Veg Noodles",
                     "price": 140,
                     "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/noodles.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -132,7 +132,7 @@
                     "name": "Veg Manchurian",
                     "price": 160,
                     "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/manchurian.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -140,7 +140,7 @@
                     "name": "Spring Rolls",
                     "price": 120,
                     "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/springrolls.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -148,26 +148,26 @@
                     "name": "Veg Hakka Noodles",
                     "price": 150,
                     "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/hakkanoodles.jpg",
                     "category": "Chinese"
                 }
             ]
         },
         {
             "id": 4,
-            "name": "Food Court D",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "name": "Food Court 4",
+            "image": "./images/bh1/4.jpg",
+            "speciality": "Veg Manchurian",
             "cuisines": [
                 "Chinese"
             ],
-            "speciality": "Veg Manchurian",
             "dishes": [
                 {
                     "id": 16,
                     "name": "Veg Schezwan Rice",
                     "price": 160,
                     "description": "Spicy schezwan fried rice",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/schezwanrice.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -175,7 +175,7 @@
                     "name": "Veg Chow Mein",
                     "price": 150,
                     "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/chowmein.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -183,7 +183,7 @@
                     "name": "Veg Spring Rolls",
                     "price": 130,
                     "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/springrolls.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -191,7 +191,7 @@
                     "name": "Veg Fried Rice",
                     "price": 140,
                     "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/friedrice.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -199,26 +199,26 @@
                     "name": "Veg Manchurian",
                     "price": 170,
                     "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/manchurian.jpg",
                     "category": "Chinese"
                 }
             ]
         },
         {
             "id": 5,
-            "name": "Food Court E",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "name": "Food Court 5",
+            "image": "./images/bh1/5.jpg",
+            "speciality": "Spring Rolls",
             "cuisines": [
                 "Chinese"
             ],
-            "speciality": "Spring Rolls",
             "dishes": [
                 {
                     "id": 21,
                     "name": "Veg Fried Rice",
                     "price": 150,
                     "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/friedrice.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -226,7 +226,7 @@
                     "name": "Veg Noodles",
                     "price": 140,
                     "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/noodles.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -234,7 +234,7 @@
                     "name": "Veg Manchurian",
                     "price": 160,
                     "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/manchurian.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -242,7 +242,7 @@
                     "name": "Spring Rolls",
                     "price": 120,
                     "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/springrolls.jpg",
                     "category": "Chinese"
                 },
                 {
@@ -250,285 +250,283 @@
                     "name": "Veg Hakka Noodles",
                     "price": 150,
                     "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/hakkanoodles.jpg",
                     "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Food Court 6",
+            "image": "./images/bh1/6.jpg",
+            "speciality": "Butter Chicken",
+            "cuisines": [
+                "North Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 26,
+                    "name": "Butter Chicken",
+                    "price": 220,
+                    "description": "Creamy tomato-based chicken curry",
+                    "image": "./images/dishes/butterchicken.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 27,
+                    "name": "Dal Makhani",
+                    "price": 180,
+                    "description": "Creamy black lentil curry",
+                    "image": "./images/dishes/dalmakhani.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 28,
+                    "name": "Paneer Tikka",
+                    "price": 200,
+                    "description": "Grilled cottage cheese cubes",
+                    "image": "./images/dishes/paneertikka.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 29,
+                    "name": "Naan",
+                    "price": 50,
+                    "description": "Tandoor-baked flatbread",
+                    "image": "./images/dishes/naan.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 30,
+                    "name": "Jeera Rice",
+                    "price": 100,
+                    "description": "Cumin-flavored rice",
+                    "image": "./images/dishes/jeerarice.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Food Court 7",
+            "image": "./images/bh1/7.jpg",
+            "speciality": "Dal Makhani",
+            "cuisines": [
+                "North Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 31,
+                    "name": "Chole Bhature",
+                    "price": 150,
+                    "description": "Spicy chickpea curry with fried bread",
+                    "image": "./images/dishes/cholebhature.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 32,
+                    "name": "Rajma Chawal",
+                    "price": 140,
+                    "description": "Kidney bean curry with rice",
+                    "image": "./images/dishes/rajmachawal.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 33,
+                    "name": "Aloo Paratha",
+                    "price": 80,
+                    "description": "Stuffed potato flatbread",
+                    "image": "./images/dishes/alooparatha.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 34,
+                    "name": "Kadhi Pakora",
+                    "price": 120,
+                    "description": "Yogurt-based curry with fritters",
+                    "image": "./images/dishes/kadhipakora.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 35,
+                    "name": "Lassi",
+                    "price": 60,
+                    "description": "Sweet yogurt drink",
+                    "image": "./images/dishes/lassi.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Food Court 8",
+            "image": "./images/bh1/8.jpg",
+            "speciality": "Paneer Tikka",
+            "cuisines": [
+                "North Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 36,
+                    "name": "Shahi Paneer",
+                    "price": 190,
+                    "description": "Rich cottage cheese curry",
+                    "image": "./images/dishes/shahipaneer.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 37,
+                    "name": "Malai Kofta",
+                    "price": 200,
+                    "description": "Cottage cheese balls in creamy sauce",
+                    "image": "./images/dishes/malaikofta.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 38,
+                    "name": "Tandoori Roti",
+                    "price": 40,
+                    "description": "Tandoor-baked whole wheat bread",
+                    "image": "./images/dishes/tandooriroti.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 39,
+                    "name": "Mix Veg",
+                    "price": 150,
+                    "description": "Mixed vegetable curry",
+                    "image": "./images/dishes/mixveg.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 40,
+                    "name": "Raita",
+                    "price": 50,
+                    "description": "Yogurt with vegetables",
+                    "image": "./images/dishes/raita.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Food Court 9",
+            "image": "./images/bh1/9.jpg",
+            "speciality": "Pizza",
+            "cuisines": [
+                "Italian"
+            ],
+            "dishes": [
+                {
+                    "id": 41,
+                    "name": "Margherita Pizza",
+                    "price": 200,
+                    "description": "Classic tomato and cheese pizza",
+                    "image": "./images/dishes/margherita.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 42,
+                    "name": "Veg Supreme Pizza",
+                    "price": 250,
+                    "description": "Loaded vegetable pizza",
+                    "image": "./images/dishes/vegsupreme.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 43,
+                    "name": "Garlic Bread",
+                    "price": 100,
+                    "description": "Toasted bread with garlic butter",
+                    "image": "./images/dishes/garlicbread.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 44,
+                    "name": "Pasta Alfredo",
+                    "price": 180,
+                    "description": "Creamy white sauce pasta",
+                    "image": "./images/dishes/pastaalfredo.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 45,
+                    "name": "Cheese Garlic Bread",
+                    "price": 120,
+                    "description": "Garlic bread with melted cheese",
+                    "image": "./images/dishes/cheesegarlicbread.jpg",
+                    "category": "Italian"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Food Court 10",
+            "image": "./images/bh1/10.jpg",
+            "speciality": "Pasta",
+            "cuisines": [
+                "Italian"
+            ],
+            "dishes": [
+                {
+                    "id": 46,
+                    "name": "Pasta Arrabiata",
+                    "price": 190,
+                    "description": "Spicy tomato sauce pasta",
+                    "image": "./images/dishes/pastaarrabiata.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 47,
+                    "name": "Pasta Primavera",
+                    "price": 200,
+                    "description": "Vegetable-loaded pasta",
+                    "image": "./images/dishes/pastaprimavera.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 48,
+                    "name": "Cheese Pizza",
+                    "price": 220,
+                    "description": "Extra cheese pizza",
+                    "image": "./images/dishes/cheesepizza.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 49,
+                    "name": "Garlic Knots",
+                    "price": 90,
+                    "description": "Soft bread knots with garlic",
+                    "image": "./images/dishes/garlicknots.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 50,
+                    "name": "Pasta Carbonara",
+                    "price": 210,
+                    "description": "Creamy egg-based pasta",
+                    "image": "./images/dishes/pastacarbonara.jpg",
+                    "category": "Italian"
                 }
             ]
         }
     ],
     "Block 32": [
         {
-            "id": 26,
-            "name": "Food Court A",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-            "cuisines": [
-                "South Indian"
-            ],
+            "id": 11,
+            "name": "Food Court 1",
+            "image": "./images/foodCourts/foodcourt11.jpg",
             "speciality": "Masala Dosa",
-            "dishes": [
-                {
-                    "id": 26,
-                    "name": "Masala Dosa",
-                    "price": 120,
-                    "description": "Crispy dosa with potato filling",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 27,
-                    "name": "Idli Sambar",
-                    "price": 80,
-                    "description": "Soft idlis with sambar",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 28,
-                    "name": "Uttapam",
-                    "price": 100,
-                    "description": "South Indian pizza with toppings",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 29,
-                    "name": "Vada",
-                    "price": 60,
-                    "description": "Crispy lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 30,
-                    "name": "Pongal",
-                    "price": 90,
-                    "description": "Rice and lentil porridge",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                }
-            ]
-        },
-        {
-            "id": 27,
-            "name": "Food Court B",
-            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
             "cuisines": [
                 "South Indian"
             ],
-            "speciality": "Idli Sambar",
-            "dishes": [
-                {
-                    "id": 31,
-                    "name": "Rava Dosa",
-                    "price": 130,
-                    "description": "Crispy semolina dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 32,
-                    "name": "Medu Vada",
-                    "price": 70,
-                    "description": "Soft lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 33,
-                    "name": "Upma",
-                    "price": 80,
-                    "description": "Semolina breakfast dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 34,
-                    "name": "Pesarattu",
-                    "price": 110,
-                    "description": "Green gram dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                },
-                {
-                    "id": 35,
-                    "name": "Bisi Bele Bath",
-                    "price": 120,
-                    "description": "Spicy rice and lentil dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
-                }
-            ]
-        },
-        {
-            "id": 28,
-            "name": "Food Court C",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-            "cuisines": [
-                "Chinese"
-            ],
-            "speciality": "Veg Fried Rice",
-            "dishes": [
-                {
-                    "id": 36,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 37,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 38,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 39,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 40,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                }
-            ]
-        },
-        {
-            "id": 29,
-            "name": "Food Court D",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-            "cuisines": [
-                "Chinese"
-            ],
-            "speciality": "Veg Manchurian",
-            "dishes": [
-                {
-                    "id": 41,
-                    "name": "Veg Schezwan Rice",
-                    "price": 160,
-                    "description": "Spicy schezwan fried rice",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 42,
-                    "name": "Veg Chow Mein",
-                    "price": 150,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 43,
-                    "name": "Veg Spring Rolls",
-                    "price": 130,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 44,
-                    "name": "Veg Fried Rice",
-                    "price": 140,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 45,
-                    "name": "Veg Manchurian",
-                    "price": 170,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                }
-            ]
-        },
-        {
-            "id": 30,
-            "name": "Food Court E",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-            "cuisines": [
-                "Chinese"
-            ],
-            "speciality": "Spring Rolls",
-            "dishes": [
-                {
-                    "id": 46,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 47,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 48,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 49,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 50,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                }
-            ]
-        }
-    ],
-    "Uni Mall": [
-        {
-            "id": 51,
-            "name": "Food Court A",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-            "cuisines": [
-                "South Indian"
-            ],
-            "speciality": "Masala Dosa",
             "dishes": [
                 {
                     "id": 51,
                     "name": "Masala Dosa",
                     "price": 120,
                     "description": "Crispy dosa with potato filling",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/dosa.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -536,7 +534,7 @@
                     "name": "Idli Sambar",
                     "price": 80,
                     "description": "Soft idlis with sambar",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/idli.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -544,7 +542,7 @@
                     "name": "Uttapam",
                     "price": 100,
                     "description": "South Indian pizza with toppings",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/uttapam.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -552,7 +550,7 @@
                     "name": "Vada",
                     "price": 60,
                     "description": "Crispy lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/vada.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -560,489 +558,487 @@
                     "name": "Pongal",
                     "price": 90,
                     "description": "Rice and lentil porridge",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/pongal.jpg",
                     "category": "South Indian"
                 }
             ]
         },
         {
-            "id": 52,
-            "name": "Food Court B",
-            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "id": 12,
+            "name": "Food Court 2",
+            "image": "./images/foodCourts/foodcourt12.jpg",
+            "speciality": "Veg Fried Rice",
             "cuisines": [
-                "South Indian"
+                "Chinese"
             ],
-            "speciality": "Idli Sambar",
             "dishes": [
                 {
                     "id": 56,
-                    "name": "Rava Dosa",
-                    "price": 130,
-                    "description": "Crispy semolina dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "./images/dishes/friedrice.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 57,
-                    "name": "Medu Vada",
-                    "price": 70,
-                    "description": "Soft lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "./images/dishes/noodles.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 58,
-                    "name": "Upma",
-                    "price": 80,
-                    "description": "Semolina breakfast dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "./images/dishes/manchurian.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 59,
-                    "name": "Pesarattu",
-                    "price": 110,
-                    "description": "Green gram dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "./images/dishes/springrolls.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 60,
-                    "name": "Bisi Bele Bath",
-                    "price": 120,
-                    "description": "Spicy rice and lentil dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "./images/dishes/hakkanoodles.jpg",
+                    "category": "Chinese"
                 }
             ]
         },
         {
-            "id": 53,
-            "name": "Food Court C",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 13,
+            "name": "Food Court 3",
+            "image": "./images/foodCourts/foodcourt13.jpg",
+            "speciality": "Butter Chicken",
             "cuisines": [
-                "Chinese"
+                "North Indian"
             ],
-            "speciality": "Veg Fried Rice",
             "dishes": [
                 {
                     "id": 61,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Butter Chicken",
+                    "price": 220,
+                    "description": "Creamy tomato-based chicken curry",
+                    "image": "./images/dishes/butterchicken.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 62,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Dal Makhani",
+                    "price": 180,
+                    "description": "Creamy black lentil curry",
+                    "image": "./images/dishes/dalmakhani.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 63,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Paneer Tikka",
+                    "price": 200,
+                    "description": "Grilled cottage cheese cubes",
+                    "image": "./images/dishes/paneertikka.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 64,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Naan",
+                    "price": 50,
+                    "description": "Tandoor-baked flatbread",
+                    "image": "./images/dishes/naan.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 65,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Jeera Rice",
+                    "price": 100,
+                    "description": "Cumin-flavored rice",
+                    "image": "./images/dishes/jeerarice.jpg",
+                    "category": "North Indian"
                 }
             ]
         },
         {
-            "id": 54,
-            "name": "Food Court D",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 14,
+            "name": "Food Court 4",
+            "image": "./images/foodCourts/foodcourt14.jpg",
+            "speciality": "Pizza",
             "cuisines": [
-                "Chinese"
+                "Italian"
             ],
-            "speciality": "Veg Manchurian",
             "dishes": [
                 {
                     "id": 66,
-                    "name": "Veg Schezwan Rice",
-                    "price": 160,
-                    "description": "Spicy schezwan fried rice",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Margherita Pizza",
+                    "price": 200,
+                    "description": "Classic tomato and cheese pizza",
+                    "image": "./images/dishes/margherita.jpg",
+                    "category": "Italian"
                 },
                 {
                     "id": 67,
-                    "name": "Veg Chow Mein",
-                    "price": 150,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Veg Supreme Pizza",
+                    "price": 250,
+                    "description": "Loaded vegetable pizza",
+                    "image": "./images/dishes/vegsupreme.jpg",
+                    "category": "Italian"
                 },
                 {
                     "id": 68,
-                    "name": "Veg Spring Rolls",
-                    "price": 130,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Garlic Bread",
+                    "price": 100,
+                    "description": "Toasted bread with garlic butter",
+                    "image": "./images/dishes/garlicbread.jpg",
+                    "category": "Italian"
                 },
                 {
                     "id": 69,
-                    "name": "Veg Fried Rice",
-                    "price": 140,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Pasta Alfredo",
+                    "price": 180,
+                    "description": "Creamy white sauce pasta",
+                    "image": "./images/dishes/pastaalfredo.jpg",
+                    "category": "Italian"
                 },
                 {
                     "id": 70,
-                    "name": "Veg Manchurian",
-                    "price": 170,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Cheese Garlic Bread",
+                    "price": 120,
+                    "description": "Garlic bread with melted cheese",
+                    "image": "./images/dishes/cheesegarlicbread.jpg",
+                    "category": "Italian"
                 }
             ]
         },
         {
-            "id": 55,
-            "name": "Food Court E",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 15,
+            "name": "Food Court 5",
+            "image": "./images/foodCourts/foodcourt15.jpg",
+            "speciality": "Burgers",
             "cuisines": [
-                "Chinese"
+                "Fast Food"
             ],
-            "speciality": "Spring Rolls",
             "dishes": [
                 {
                     "id": 71,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Veg Burger",
+                    "price": 80,
+                    "description": "Vegetable patty in bun",
+                    "image": "./images/dishes/vegburger.jpg",
+                    "category": "Fast Food"
                 },
                 {
                     "id": 72,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "French Fries",
+                    "price": 60,
+                    "description": "Crispy potato fries",
+                    "image": "./images/dishes/frenchfries.jpg",
+                    "category": "Fast Food"
                 },
                 {
                     "id": 73,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Veg Wrap",
+                    "price": 90,
+                    "description": "Vegetable wrap with sauce",
+                    "image": "./images/dishes/vegwrap.jpg",
+                    "category": "Fast Food"
                 },
                 {
                     "id": 74,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Onion Rings",
+                    "price": 70,
+                    "description": "Crispy fried onion rings",
+                    "image": "./images/dishes/onionrings.jpg",
+                    "category": "Fast Food"
                 },
                 {
                     "id": 75,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Soft Drink",
+                    "price": 40,
+                    "description": "Carbonated beverage",
+                    "image": "./images/dishes/softdrink.jpg",
+                    "category": "Beverage"
                 }
             ]
-        }
-    ],
-    "Block 38": [
+        },
         {
-            "id": 76,
-            "name": "Food Court A",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 16,
+            "name": "Food Court 6",
+            "image": "./images/foodCourts/foodcourt16.jpg",
+            "speciality": "Healthy Food",
             "cuisines": [
-                "South Indian"
+                "Healthy"
             ],
-            "speciality": "Masala Dosa",
             "dishes": [
                 {
                     "id": 76,
-                    "name": "Masala Dosa",
+                    "name": "Quinoa Salad",
                     "price": 120,
-                    "description": "Crispy dosa with potato filling",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "description": "Healthy salad with quinoa",
+                    "image": "./images/dishes/quinoasalad.jpg",
+                    "category": "Healthy"
                 },
                 {
                     "id": 77,
-                    "name": "Idli Sambar",
-                    "price": 80,
-                    "description": "Soft idlis with sambar",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Avocado Toast",
+                    "price": 100,
+                    "description": "Whole grain toast with avocado",
+                    "image": "./images/dishes/avocadotoast.jpg",
+                    "category": "Healthy"
                 },
                 {
                     "id": 78,
-                    "name": "Uttapam",
-                    "price": 100,
-                    "description": "South Indian pizza with toppings",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Smoothie Bowl",
+                    "price": 150,
+                    "description": "Fruit smoothie in bowl with toppings",
+                    "image": "./images/dishes/smoothiebowl.jpg",
+                    "category": "Healthy"
                 },
                 {
                     "id": 79,
-                    "name": "Vada",
-                    "price": 60,
-                    "description": "Crispy lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Grilled Sandwich",
+                    "price": 90,
+                    "description": "Whole wheat sandwich with vegetables",
+                    "image": "./images/dishes/grilledsandwich.jpg",
+                    "category": "Healthy"
                 },
                 {
                     "id": 80,
-                    "name": "Pongal",
-                    "price": 90,
-                    "description": "Rice and lentil porridge",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Green Tea",
+                    "price": 40,
+                    "description": "Healthy herbal tea",
+                    "image": "./images/dishes/greentea.jpg",
+                    "category": "Beverage"
                 }
             ]
         },
         {
-            "id": 77,
-            "name": "Food Court B",
-            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "id": 17,
+            "name": "Food Court 7",
+            "image": "./images/foodCourts/foodcourt17.jpg",
+            "speciality": "Desserts",
             "cuisines": [
-                "South Indian"
+                "Desserts"
             ],
-            "speciality": "Idli Sambar",
             "dishes": [
                 {
                     "id": 81,
-                    "name": "Rava Dosa",
-                    "price": 130,
-                    "description": "Crispy semolina dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Chocolate Cake",
+                    "price": 100,
+                    "description": "Rich chocolate cake",
+                    "image": "./images/dishes/chocolatecake.jpg",
+                    "category": "Dessert"
                 },
                 {
                     "id": 82,
-                    "name": "Medu Vada",
-                    "price": 70,
-                    "description": "Soft lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Ice Cream Sundae",
+                    "price": 120,
+                    "description": "Ice cream with toppings",
+                    "image": "./images/dishes/icecreamsundae.jpg",
+                    "category": "Dessert"
                 },
                 {
                     "id": 83,
-                    "name": "Upma",
-                    "price": 80,
-                    "description": "Semolina breakfast dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Fruit Tart",
+                    "price": 90,
+                    "description": "Fresh fruit tart",
+                    "image": "./images/dishes/fruittart.jpg",
+                    "category": "Dessert"
                 },
                 {
                     "id": 84,
-                    "name": "Pesarattu",
+                    "name": "Cheesecake",
                     "price": 110,
-                    "description": "Green gram dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "description": "Creamy cheesecake",
+                    "image": "./images/dishes/cheesecake.jpg",
+                    "category": "Dessert"
                 },
                 {
                     "id": 85,
-                    "name": "Bisi Bele Bath",
-                    "price": 120,
-                    "description": "Spicy rice and lentil dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Milkshake",
+                    "price": 80,
+                    "description": "Thick milkshake",
+                    "image": "./images/dishes/milkshake.jpg",
+                    "category": "Beverage"
                 }
             ]
         },
         {
-            "id": 78,
-            "name": "Food Court C",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 18,
+            "name": "Food Court 8",
+            "image": "./images/foodCourts/foodcourt18.jpg",
+            "speciality": "Beverages",
             "cuisines": [
-                "Chinese"
+                "Beverages"
             ],
-            "speciality": "Veg Fried Rice",
             "dishes": [
                 {
                     "id": 86,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Fresh Juice",
+                    "price": 60,
+                    "description": "Freshly squeezed fruit juice",
+                    "image": "./images/dishes/freshjuice.jpg",
+                    "category": "Beverage"
                 },
                 {
                     "id": 87,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Iced Tea",
+                    "price": 50,
+                    "description": "Chilled tea with lemon",
+                    "image": "./images/dishes/icedtea.jpg",
+                    "category": "Beverage"
                 },
                 {
                     "id": 88,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Coffee",
+                    "price": 40,
+                    "description": "Hot brewed coffee",
+                    "image": "./images/dishes/coffee.jpg",
+                    "category": "Beverage"
                 },
                 {
                     "id": 89,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Mojito",
+                    "price": 70,
+                    "description": "Mint lemonade",
+                    "image": "./images/dishes/mojito.jpg",
+                    "category": "Beverage"
                 },
                 {
                     "id": 90,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Hot Chocolate",
+                    "price": 60,
+                    "description": "Rich hot chocolate",
+                    "image": "./images/dishes/hotchocolate.jpg",
+                    "category": "Beverage"
                 }
             ]
         },
         {
-            "id": 79,
-            "name": "Food Court D",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 19,
+            "name": "Food Court 9",
+            "image": "./images/foodCourts/foodcourt19.jpg",
+            "speciality": "Snacks",
             "cuisines": [
-                "Chinese"
+                "Snacks"
             ],
-            "speciality": "Veg Manchurian",
             "dishes": [
                 {
                     "id": 91,
-                    "name": "Veg Schezwan Rice",
-                    "price": 160,
-                    "description": "Spicy schezwan fried rice",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Samosa",
+                    "price": 40,
+                    "description": "Spiced potato filled pastry",
+                    "image": "./images/dishes/samosa.jpg",
+                    "category": "Snack"
                 },
                 {
                     "id": 92,
-                    "name": "Veg Chow Mein",
-                    "price": 150,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Pav Bhaji",
+                    "price": 80,
+                    "description": "Spiced vegetable curry with bread",
+                    "image": "./images/dishes/pavbhaji.jpg",
+                    "category": "Snack"
                 },
                 {
                     "id": 93,
-                    "name": "Veg Spring Rolls",
-                    "price": 130,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Bhel Puri",
+                    "price": 60,
+                    "description": "Puffed rice snack with chutneys",
+                    "image": "./images/dishes/bhelpuri.jpg",
+                    "category": "Snack"
                 },
                 {
                     "id": 94,
-                    "name": "Veg Fried Rice",
-                    "price": 140,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Cutlet",
+                    "price": 50,
+                    "description": "Fried vegetable patty",
+                    "image": "./images/dishes/cutlet.jpg",
+                    "category": "Snack"
                 },
                 {
                     "id": 95,
-                    "name": "Veg Manchurian",
-                    "price": 170,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Pakora",
+                    "price": 45,
+                    "description": "Deep-fried vegetable fritters",
+                    "image": "./images/dishes/pakora.jpg",
+                    "category": "Snack"
                 }
             ]
         },
         {
-            "id": 80,
-            "name": "Food Court E",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 20,
+            "name": "Food Court 10",
+            "image": "./images/foodCourts/foodcourt20.jpg",
+            "speciality": "Fusion Food",
             "cuisines": [
-                "Chinese"
+                "Fusion"
             ],
-            "speciality": "Spring Rolls",
             "dishes": [
                 {
                     "id": 96,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Schezwan Dosa",
+                    "price": 100,
+                    "description": "Dosa with Chinese-style spicy filling",
+                    "image": "./images/dishes/schezwandosa.jpg",
+                    "category": "Fusion"
                 },
                 {
                     "id": 97,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Pasta Biryani",
+                    "price": 150,
+                    "description": "Pasta cooked in biryani style",
+                    "image": "./images/dishes/pastabiryani.jpg",
+                    "category": "Fusion"
                 },
                 {
                     "id": 98,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Pizza Dosa",
+                    "price": 120,
+                    "description": "Dosa topped with pizza ingredients",
+                    "image": "./images/dishes/pizzadosa.jpg",
+                    "category": "Fusion"
                 },
                 {
                     "id": 99,
-                    "name": "Spring Rolls",
-                    "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Chinese Bhel",
+                    "price": 80,
+                    "description": "Chinese-style chaat",
+                    "image": "./images/dishes/chinesebhel.jpg",
+                    "category": "Fusion"
                 },
                 {
                     "id": 100,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "name": "Italian Thali",
+                    "price": 200,
+                    "description": "Italian dishes served in thali style",
+                    "image": "./images/dishes/italianthali.jpg",
+                    "category": "Fusion"
                 }
             ]
         }
     ],
-    "CSE Block": [
+    "Uni Mall": [
         {
-            "id": 101,
-            "name": "Food Court A",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 21,
+            "name": "Food Court 1",
+            "image": "./images/foodCourts/foodcourt21.jpg",
+            "speciality": "South Indian",
             "cuisines": [
                 "South Indian"
             ],
-            "speciality": "Masala Dosa",
             "dishes": [
                 {
                     "id": 101,
                     "name": "Masala Dosa",
                     "price": 120,
                     "description": "Crispy dosa with potato filling",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/dosa.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -1050,7 +1046,7 @@
                     "name": "Idli Sambar",
                     "price": 80,
                     "description": "Soft idlis with sambar",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/idli.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -1058,7 +1054,7 @@
                     "name": "Uttapam",
                     "price": 100,
                     "description": "South Indian pizza with toppings",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/uttapam.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -1066,7 +1062,7 @@
                     "name": "Vada",
                     "price": 60,
                     "description": "Crispy lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/vada.jpg",
                     "category": "South Indian"
                 },
                 {
@@ -1074,212 +1070,1491 @@
                     "name": "Pongal",
                     "price": 90,
                     "description": "Rice and lentil porridge",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "image": "./images/dishes/pongal.jpg",
                     "category": "South Indian"
                 }
             ]
         },
         {
-            "id": 102,
-            "name": "Food Court B",
-            "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+            "id": 22,
+            "name": "Food Court 2",
+            "image": "./images/foodCourts/foodcourt22.jpg",
+            "speciality": "Chinese",
             "cuisines": [
-                "South Indian"
+                "Chinese"
             ],
-            "speciality": "Idli Sambar",
             "dishes": [
                 {
                     "id": 106,
-                    "name": "Rava Dosa",
-                    "price": 130,
-                    "description": "Crispy semolina dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Fried Rice",
+                    "price": 150,
+                    "description": "Wok-tossed rice with vegetables",
+                    "image": "./images/dishes/friedrice.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 107,
-                    "name": "Medu Vada",
-                    "price": 70,
-                    "description": "Soft lentil doughnuts",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "./images/dishes/noodles.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 108,
-                    "name": "Upma",
-                    "price": 80,
-                    "description": "Semolina breakfast dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Veg Manchurian",
+                    "price": 160,
+                    "description": "Vegetable balls in spicy sauce",
+                    "image": "./images/dishes/manchurian.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 109,
-                    "name": "Pesarattu",
-                    "price": 110,
-                    "description": "Green gram dosa",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
-                    "category": "South Indian"
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "./images/dishes/springrolls.jpg",
+                    "category": "Chinese"
                 },
                 {
                     "id": 110,
-                    "name": "Bisi Bele Bath",
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "./images/dishes/hakkanoodles.jpg",
+                    "category": "Chinese"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Food Court 3",
+            "image": "./images/foodCourts/foodcourt23.jpg",
+            "speciality": "North Indian",
+            "cuisines": [
+                "North Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 111,
+                    "name": "Butter Chicken",
+                    "price": 220,
+                    "description": "Creamy tomato-based chicken curry",
+                    "image": "./images/dishes/butterchicken.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 112,
+                    "name": "Dal Makhani",
+                    "price": 180,
+                    "description": "Creamy black lentil curry",
+                    "image": "./images/dishes/dalmakhani.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 113,
+                    "name": "Paneer Tikka",
+                    "price": 200,
+                    "description": "Grilled cottage cheese cubes",
+                    "image": "./images/dishes/paneertikka.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 114,
+                    "name": "Naan",
+                    "price": 50,
+                    "description": "Tandoor-baked flatbread",
+                    "image": "./images/dishes/naan.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 115,
+                    "name": "Jeera Rice",
+                    "price": 100,
+                    "description": "Cumin-flavored rice",
+                    "image": "./images/dishes/jeerarice.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Food Court 4",
+            "image": "./images/foodCourts/foodcourt24.jpg",
+            "speciality": "Italian",
+            "cuisines": [
+                "Italian"
+            ],
+            "dishes": [
+                {
+                    "id": 116,
+                    "name": "Margherita Pizza",
+                    "price": 200,
+                    "description": "Classic tomato and cheese pizza",
+                    "image": "./images/dishes/margherita.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 117,
+                    "name": "Veg Supreme Pizza",
+                    "price": 250,
+                    "description": "Loaded vegetable pizza",
+                    "image": "./images/dishes/vegsupreme.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 118,
+                    "name": "Garlic Bread",
+                    "price": 100,
+                    "description": "Toasted bread with garlic butter",
+                    "image": "./images/dishes/garlicbread.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 119,
+                    "name": "Pasta Alfredo",
+                    "price": 180,
+                    "description": "Creamy white sauce pasta",
+                    "image": "./images/dishes/pastaalfredo.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 120,
+                    "name": "Cheese Garlic Bread",
                     "price": 120,
-                    "description": "Spicy rice and lentil dish",
-                    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                    "description": "Garlic bread with melted cheese",
+                    "image": "./images/dishes/cheesegarlicbread.jpg",
+                    "category": "Italian"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Food Court 5",
+            "image": "./images/foodCourts/foodcourt25.jpg",
+            "speciality": "Fast Food",
+            "cuisines": [
+                "Fast Food"
+            ],
+            "dishes": [
+                {
+                    "id": 121,
+                    "name": "Veg Burger",
+                    "price": 80,
+                    "description": "Vegetable patty in bun",
+                    "image": "./images/dishes/vegburger.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 122,
+                    "name": "French Fries",
+                    "price": 60,
+                    "description": "Crispy potato fries",
+                    "image": "./images/dishes/frenchfries.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 123,
+                    "name": "Veg Wrap",
+                    "price": 90,
+                    "description": "Vegetable wrap with sauce",
+                    "image": "./images/dishes/vegwrap.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 124,
+                    "name": "Onion Rings",
+                    "price": 70,
+                    "description": "Crispy fried onion rings",
+                    "image": "./images/dishes/onionrings.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 125,
+                    "name": "Soft Drink",
+                    "price": 40,
+                    "description": "Carbonated beverage",
+                    "image": "./images/dishes/softdrink.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Food Court 6",
+            "image": "./images/foodCourts/foodcourt26.jpg",
+            "speciality": "Healthy Food",
+            "cuisines": [
+                "Healthy"
+            ],
+            "dishes": [
+                {
+                    "id": 126,
+                    "name": "Quinoa Salad",
+                    "price": 120,
+                    "description": "Healthy salad with quinoa",
+                    "image": "./images/dishes/quinoasalad.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 127,
+                    "name": "Avocado Toast",
+                    "price": 100,
+                    "description": "Whole grain toast with avocado",
+                    "image": "./images/dishes/avocadotoast.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 128,
+                    "name": "Smoothie Bowl",
+                    "price": 150,
+                    "description": "Fruit smoothie in bowl with toppings",
+                    "image": "./images/dishes/smoothiebowl.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 129,
+                    "name": "Grilled Sandwich",
+                    "price": 90,
+                    "description": "Whole wheat sandwich with vegetables",
+                    "image": "./images/dishes/grilledsandwich.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 130,
+                    "name": "Green Tea",
+                    "price": 40,
+                    "description": "Healthy herbal tea",
+                    "image": "./images/dishes/greentea.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Food Court 7",
+            "image": "./images/foodCourts/foodcourt27.jpg",
+            "speciality": "Desserts",
+            "cuisines": [
+                "Desserts"
+            ],
+            "dishes": [
+                {
+                    "id": 131,
+                    "name": "Chocolate Cake",
+                    "price": 100,
+                    "description": "Rich chocolate cake",
+                    "image": "./images/dishes/chocolatecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 132,
+                    "name": "Ice Cream Sundae",
+                    "price": 120,
+                    "description": "Ice cream with toppings",
+                    "image": "./images/dishes/icecreamsundae.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 133,
+                    "name": "Fruit Tart",
+                    "price": 90,
+                    "description": "Fresh fruit tart",
+                    "image": "./images/dishes/fruittart.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 134,
+                    "name": "Cheesecake",
+                    "price": 110,
+                    "description": "Creamy cheesecake",
+                    "image": "./images/dishes/cheesecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 135,
+                    "name": "Milkshake",
+                    "price": 80,
+                    "description": "Thick milkshake",
+                    "image": "./images/dishes/milkshake.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Food Court 8",
+            "image": "./images/foodCourts/foodcourt28.jpg",
+            "speciality": "Beverages",
+            "cuisines": [
+                "Beverages"
+            ],
+            "dishes": [
+                {
+                    "id": 136,
+                    "name": "Fresh Juice",
+                    "price": 60,
+                    "description": "Freshly squeezed fruit juice",
+                    "image": "./images/dishes/freshjuice.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 137,
+                    "name": "Iced Tea",
+                    "price": 50,
+                    "description": "Chilled tea with lemon",
+                    "image": "./images/dishes/icedtea.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 138,
+                    "name": "Coffee",
+                    "price": 40,
+                    "description": "Hot brewed coffee",
+                    "image": "./images/dishes/coffee.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 139,
+                    "name": "Mojito",
+                    "price": 70,
+                    "description": "Mint lemonade",
+                    "image": "./images/dishes/mojito.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 140,
+                    "name": "Hot Chocolate",
+                    "price": 60,
+                    "description": "Rich hot chocolate",
+                    "image": "./images/dishes/hotchocolate.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Food Court 9",
+            "image": "./images/foodCourts/foodcourt29.jpg",
+            "speciality": "Snacks",
+            "cuisines": [
+                "Snacks"
+            ],
+            "dishes": [
+                {
+                    "id": 141,
+                    "name": "Samosa",
+                    "price": 40,
+                    "description": "Spiced potato filled pastry",
+                    "image": "./images/dishes/samosa.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 142,
+                    "name": "Pav Bhaji",
+                    "price": 80,
+                    "description": "Spiced vegetable curry with bread",
+                    "image": "./images/dishes/pavbhaji.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 143,
+                    "name": "Bhel Puri",
+                    "price": 60,
+                    "description": "Puffed rice snack with chutneys",
+                    "image": "./images/dishes/bhelpuri.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 144,
+                    "name": "Cutlet",
+                    "price": 50,
+                    "description": "Fried vegetable patty",
+                    "image": "./images/dishes/cutlet.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 145,
+                    "name": "Pakora",
+                    "price": 45,
+                    "description": "Deep-fried vegetable fritters",
+                    "image": "./images/dishes/pakora.jpg",
+                    "category": "Snack"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Food Court 10",
+            "image": "./images/foodCourts/foodcourt30.jpg",
+            "speciality": "Fusion Food",
+            "cuisines": [
+                "Fusion"
+            ],
+            "dishes": [
+                {
+                    "id": 146,
+                    "name": "Schezwan Dosa",
+                    "price": 100,
+                    "description": "Dosa with Chinese-style spicy filling",
+                    "image": "./images/dishes/schezwandosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 147,
+                    "name": "Pasta Biryani",
+                    "price": 150,
+                    "description": "Pasta cooked in biryani style",
+                    "image": "./images/dishes/pastabiryani.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 148,
+                    "name": "Pizza Dosa",
+                    "price": 120,
+                    "description": "Dosa topped with pizza ingredients",
+                    "image": "./images/dishes/pizzadosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 149,
+                    "name": "Chinese Bhel",
+                    "price": 80,
+                    "description": "Chinese-style chaat",
+                    "image": "./images/dishes/chinesebhel.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 150,
+                    "name": "Italian Thali",
+                    "price": 200,
+                    "description": "Italian dishes served in thali style",
+                    "image": "./images/dishes/italianthali.jpg",
+                    "category": "Fusion"
+                }
+            ]
+        }
+    ],
+    "Block 38": [
+        {
+            "id": 31,
+            "name": "Food Court 1",
+            "image": "./images/foodCourts/foodcourt31.jpg",
+            "speciality": "South Indian",
+            "cuisines": [
+                "South Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 151,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "./images/dishes/dosa.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 152,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "./images/dishes/idli.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 153,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "./images/dishes/uttapam.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 154,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "./images/dishes/vada.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 155,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "./images/dishes/pongal.jpg",
                     "category": "South Indian"
                 }
             ]
         },
         {
-            "id": 103,
-            "name": "Food Court C",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 32,
+            "name": "Food Court 2",
+            "image": "./images/foodCourts/foodcourt32.jpg",
+            "speciality": "Chinese",
             "cuisines": [
                 "Chinese"
             ],
-            "speciality": "Veg Fried Rice",
             "dishes": [
                 {
-                    "id": 111,
+                    "id": 156,
                     "name": "Veg Fried Rice",
                     "price": 150,
                     "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/friedrice.jpg",
                     "category": "Chinese"
                 },
                 {
-                    "id": 112,
+                    "id": 157,
                     "name": "Veg Noodles",
                     "price": 140,
                     "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/noodles.jpg",
                     "category": "Chinese"
                 },
                 {
-                    "id": 113,
+                    "id": 158,
                     "name": "Veg Manchurian",
                     "price": 160,
                     "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/manchurian.jpg",
                     "category": "Chinese"
                 },
                 {
-                    "id": 114,
+                    "id": 159,
                     "name": "Spring Rolls",
                     "price": 120,
                     "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/springrolls.jpg",
                     "category": "Chinese"
                 },
                 {
-                    "id": 115,
+                    "id": 160,
                     "name": "Veg Hakka Noodles",
                     "price": 150,
                     "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/hakkanoodles.jpg",
                     "category": "Chinese"
                 }
             ]
         },
         {
-            "id": 104,
-            "name": "Food Court D",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 33,
+            "name": "Food Court 3",
+            "image": "./images/foodCourts/foodcourt33.jpg",
+            "speciality": "North Indian",
+            "cuisines": [
+                "North Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 161,
+                    "name": "Butter Chicken",
+                    "price": 220,
+                    "description": "Creamy tomato-based chicken curry",
+                    "image": "./images/dishes/butterchicken.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 162,
+                    "name": "Dal Makhani",
+                    "price": 180,
+                    "description": "Creamy black lentil curry",
+                    "image": "./images/dishes/dalmakhani.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 163,
+                    "name": "Paneer Tikka",
+                    "price": 200,
+                    "description": "Grilled cottage cheese cubes",
+                    "image": "./images/dishes/paneertikka.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 164,
+                    "name": "Naan",
+                    "price": 50,
+                    "description": "Tandoor-baked flatbread",
+                    "image": "./images/dishes/naan.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 165,
+                    "name": "Jeera Rice",
+                    "price": 100,
+                    "description": "Cumin-flavored rice",
+                    "image": "./images/dishes/jeerarice.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Food Court 4",
+            "image": "./images/foodCourts/foodcourt34.jpg",
+            "speciality": "Italian",
+            "cuisines": [
+                "Italian"
+            ],
+            "dishes": [
+                {
+                    "id": 166,
+                    "name": "Margherita Pizza",
+                    "price": 200,
+                    "description": "Classic tomato and cheese pizza",
+                    "image": "./images/dishes/margherita.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 167,
+                    "name": "Veg Supreme Pizza",
+                    "price": 250,
+                    "description": "Loaded vegetable pizza",
+                    "image": "./images/dishes/vegsupreme.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 168,
+                    "name": "Garlic Bread",
+                    "price": 100,
+                    "description": "Toasted bread with garlic butter",
+                    "image": "./images/dishes/garlicbread.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 169,
+                    "name": "Pasta Alfredo",
+                    "price": 180,
+                    "description": "Creamy white sauce pasta",
+                    "image": "./images/dishes/pastaalfredo.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 170,
+                    "name": "Cheese Garlic Bread",
+                    "price": 120,
+                    "description": "Garlic bread with melted cheese",
+                    "image": "./images/dishes/cheesegarlicbread.jpg",
+                    "category": "Italian"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Food Court 5",
+            "image": "./images/foodCourts/foodcourt35.jpg",
+            "speciality": "Fast Food",
+            "cuisines": [
+                "Fast Food"
+            ],
+            "dishes": [
+                {
+                    "id": 171,
+                    "name": "Veg Burger",
+                    "price": 80,
+                    "description": "Vegetable patty in bun",
+                    "image": "./images/dishes/vegburger.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 172,
+                    "name": "French Fries",
+                    "price": 60,
+                    "description": "Crispy potato fries",
+                    "image": "./images/dishes/frenchfries.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 173,
+                    "name": "Veg Wrap",
+                    "price": 90,
+                    "description": "Vegetable wrap with sauce",
+                    "image": "./images/dishes/vegwrap.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 174,
+                    "name": "Onion Rings",
+                    "price": 70,
+                    "description": "Crispy fried onion rings",
+                    "image": "./images/dishes/onionrings.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 175,
+                    "name": "Soft Drink",
+                    "price": 40,
+                    "description": "Carbonated beverage",
+                    "image": "./images/dishes/softdrink.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Food Court 6",
+            "image": "./images/foodCourts/foodcourt36.jpg",
+            "speciality": "Healthy Food",
+            "cuisines": [
+                "Healthy"
+            ],
+            "dishes": [
+                {
+                    "id": 176,
+                    "name": "Quinoa Salad",
+                    "price": 120,
+                    "description": "Healthy salad with quinoa",
+                    "image": "./images/dishes/quinoasalad.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 177,
+                    "name": "Avocado Toast",
+                    "price": 100,
+                    "description": "Whole grain toast with avocado",
+                    "image": "./images/dishes/avocadotoast.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 178,
+                    "name": "Smoothie Bowl",
+                    "price": 150,
+                    "description": "Fruit smoothie in bowl with toppings",
+                    "image": "./images/dishes/smoothiebowl.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 179,
+                    "name": "Grilled Sandwich",
+                    "price": 90,
+                    "description": "Whole wheat sandwich with vegetables",
+                    "image": "./images/dishes/grilledsandwich.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 180,
+                    "name": "Green Tea",
+                    "price": 40,
+                    "description": "Healthy herbal tea",
+                    "image": "./images/dishes/greentea.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Food Court 7",
+            "image": "./images/foodCourts/foodcourt37.jpg",
+            "speciality": "Desserts",
+            "cuisines": [
+                "Desserts"
+            ],
+            "dishes": [
+                {
+                    "id": 181,
+                    "name": "Chocolate Cake",
+                    "price": 100,
+                    "description": "Rich chocolate cake",
+                    "image": "./images/dishes/chocolatecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 182,
+                    "name": "Ice Cream Sundae",
+                    "price": 120,
+                    "description": "Ice cream with toppings",
+                    "image": "./images/dishes/icecreamsundae.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 183,
+                    "name": "Fruit Tart",
+                    "price": 90,
+                    "description": "Fresh fruit tart",
+                    "image": "./images/dishes/fruittart.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 184,
+                    "name": "Cheesecake",
+                    "price": 110,
+                    "description": "Creamy cheesecake",
+                    "image": "./images/dishes/cheesecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 185,
+                    "name": "Milkshake",
+                    "price": 80,
+                    "description": "Thick milkshake",
+                    "image": "./images/dishes/milkshake.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Food Court 8",
+            "image": "./images/foodCourts/foodcourt38.jpg",
+            "speciality": "Beverages",
+            "cuisines": [
+                "Beverages"
+            ],
+            "dishes": [
+                {
+                    "id": 186,
+                    "name": "Fresh Juice",
+                    "price": 60,
+                    "description": "Freshly squeezed fruit juice",
+                    "image": "./images/dishes/freshjuice.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 187,
+                    "name": "Iced Tea",
+                    "price": 50,
+                    "description": "Chilled tea with lemon",
+                    "image": "./images/dishes/icedtea.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 188,
+                    "name": "Coffee",
+                    "price": 40,
+                    "description": "Hot brewed coffee",
+                    "image": "./images/dishes/coffee.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 189,
+                    "name": "Mojito",
+                    "price": 70,
+                    "description": "Mint lemonade",
+                    "image": "./images/dishes/mojito.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 190,
+                    "name": "Hot Chocolate",
+                    "price": 60,
+                    "description": "Rich hot chocolate",
+                    "image": "./images/dishes/hotchocolate.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Food Court 9",
+            "image": "./images/foodCourts/foodcourt39.jpg",
+            "speciality": "Snacks",
+            "cuisines": [
+                "Snacks"
+            ],
+            "dishes": [
+                {
+                    "id": 191,
+                    "name": "Samosa",
+                    "price": 40,
+                    "description": "Spiced potato filled pastry",
+                    "image": "./images/dishes/samosa.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 192,
+                    "name": "Pav Bhaji",
+                    "price": 80,
+                    "description": "Spiced vegetable curry with bread",
+                    "image": "./images/dishes/pavbhaji.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 193,
+                    "name": "Bhel Puri",
+                    "price": 60,
+                    "description": "Puffed rice snack with chutneys",
+                    "image": "./images/dishes/bhelpuri.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 194,
+                    "name": "Cutlet",
+                    "price": 50,
+                    "description": "Fried vegetable patty",
+                    "image": "./images/dishes/cutlet.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 195,
+                    "name": "Pakora",
+                    "price": 45,
+                    "description": "Deep-fried vegetable fritters",
+                    "image": "./images/dishes/pakora.jpg",
+                    "category": "Snack"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Food Court 10",
+            "image": "./images/foodCourts/foodcourt40.jpg",
+            "speciality": "Fusion Food",
+            "cuisines": [
+                "Fusion"
+            ],
+            "dishes": [
+                {
+                    "id": 196,
+                    "name": "Schezwan Dosa",
+                    "price": 100,
+                    "description": "Dosa with Chinese-style spicy filling",
+                    "image": "./images/dishes/schezwandosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 197,
+                    "name": "Pasta Biryani",
+                    "price": 150,
+                    "description": "Pasta cooked in biryani style",
+                    "image": "./images/dishes/pastabiryani.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 198,
+                    "name": "Pizza Dosa",
+                    "price": 120,
+                    "description": "Dosa topped with pizza ingredients",
+                    "image": "./images/dishes/pizzadosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 199,
+                    "name": "Chinese Bhel",
+                    "price": 80,
+                    "description": "Chinese-style chaat",
+                    "image": "./images/dishes/chinesebhel.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 200,
+                    "name": "Italian Thali",
+                    "price": 200,
+                    "description": "Italian dishes served in thali style",
+                    "image": "./images/dishes/italianthali.jpg",
+                    "category": "Fusion"
+                }
+            ]
+        }
+    ],
+    "CSE Block": [
+        {
+            "id": 41,
+            "name": "Food Court 1",
+            "image": "./images/foodCourts/foodcourt41.jpg",
+            "speciality": "South Indian",
+            "cuisines": [
+                "South Indian"
+            ],
+            "dishes": [
+                {
+                    "id": 201,
+                    "name": "Masala Dosa",
+                    "price": 120,
+                    "description": "Crispy dosa with potato filling",
+                    "image": "./images/dishes/dosa.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 202,
+                    "name": "Idli Sambar",
+                    "price": 80,
+                    "description": "Soft idlis with sambar",
+                    "image": "./images/dishes/idli.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 203,
+                    "name": "Uttapam",
+                    "price": 100,
+                    "description": "South Indian pizza with toppings",
+                    "image": "./images/dishes/uttapam.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 204,
+                    "name": "Vada",
+                    "price": 60,
+                    "description": "Crispy lentil doughnuts",
+                    "image": "./images/dishes/vada.jpg",
+                    "category": "South Indian"
+                },
+                {
+                    "id": 205,
+                    "name": "Pongal",
+                    "price": 90,
+                    "description": "Rice and lentil porridge",
+                    "image": "./images/dishes/pongal.jpg",
+                    "category": "South Indian"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Food Court 2",
+            "image": "./images/foodCourts/foodcourt42.jpg",
+            "speciality": "Chinese",
             "cuisines": [
                 "Chinese"
             ],
-            "speciality": "Veg Manchurian",
             "dishes": [
                 {
-                    "id": 116,
-                    "name": "Veg Schezwan Rice",
-                    "price": 160,
-                    "description": "Spicy schezwan fried rice",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 117,
-                    "name": "Veg Chow Mein",
-                    "price": 150,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 118,
-                    "name": "Veg Spring Rolls",
-                    "price": 130,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
-                },
-                {
-                    "id": 119,
+                    "id": 206,
                     "name": "Veg Fried Rice",
-                    "price": 140,
+                    "price": 150,
                     "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/friedrice.jpg",
                     "category": "Chinese"
                 },
                 {
-                    "id": 120,
+                    "id": 207,
+                    "name": "Veg Noodles",
+                    "price": 140,
+                    "description": "Stir-fried noodles with vegetables",
+                    "image": "./images/dishes/noodles.jpg",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 208,
                     "name": "Veg Manchurian",
-                    "price": 170,
+                    "price": 160,
                     "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
+                    "image": "./images/dishes/manchurian.jpg",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 209,
+                    "name": "Spring Rolls",
+                    "price": 120,
+                    "description": "Crispy vegetable rolls",
+                    "image": "./images/dishes/springrolls.jpg",
+                    "category": "Chinese"
+                },
+                {
+                    "id": 210,
+                    "name": "Veg Hakka Noodles",
+                    "price": 150,
+                    "description": "Spicy stir-fried noodles",
+                    "image": "./images/dishes/hakkanoodles.jpg",
                     "category": "Chinese"
                 }
             ]
         },
         {
-            "id": 105,
-            "name": "Food Court E",
-            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+            "id": 43,
+            "name": "Food Court 3",
+            "image": "./images/foodCourts/foodcourt43.jpg",
+            "speciality": "North Indian",
             "cuisines": [
-                "Chinese"
+                "North Indian"
             ],
-            "speciality": "Spring Rolls",
             "dishes": [
                 {
-                    "id": 121,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "id": 211,
+                    "name": "Butter Chicken",
+                    "price": 220,
+                    "description": "Creamy tomato-based chicken curry",
+                    "image": "./images/dishes/butterchicken.jpg",
+                    "category": "North Indian"
                 },
                 {
-                    "id": 122,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "id": 212,
+                    "name": "Dal Makhani",
+                    "price": 180,
+                    "description": "Creamy black lentil curry",
+                    "image": "./images/dishes/dalmakhani.jpg",
+                    "category": "North Indian"
                 },
                 {
-                    "id": 123,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "id": 213,
+                    "name": "Paneer Tikka",
+                    "price": 200,
+                    "description": "Grilled cottage cheese cubes",
+                    "image": "./images/dishes/paneertikka.jpg",
+                    "category": "North Indian"
                 },
                 {
-                    "id": 124,
-                    "name": "Spring Rolls",
+                    "id": 214,
+                    "name": "Naan",
+                    "price": 50,
+                    "description": "Tandoor-baked flatbread",
+                    "image": "./images/dishes/naan.jpg",
+                    "category": "North Indian"
+                },
+                {
+                    "id": 215,
+                    "name": "Jeera Rice",
+                    "price": 100,
+                    "description": "Cumin-flavored rice",
+                    "image": "./images/dishes/jeerarice.jpg",
+                    "category": "North Indian"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Food Court 4",
+            "image": "./images/foodCourts/foodcourt44.jpg",
+            "speciality": "Italian",
+            "cuisines": [
+                "Italian"
+            ],
+            "dishes": [
+                {
+                    "id": 216,
+                    "name": "Margherita Pizza",
+                    "price": 200,
+                    "description": "Classic tomato and cheese pizza",
+                    "image": "./images/dishes/margherita.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 217,
+                    "name": "Veg Supreme Pizza",
+                    "price": 250,
+                    "description": "Loaded vegetable pizza",
+                    "image": "./images/dishes/vegsupreme.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 218,
+                    "name": "Garlic Bread",
+                    "price": 100,
+                    "description": "Toasted bread with garlic butter",
+                    "image": "./images/dishes/garlicbread.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 219,
+                    "name": "Pasta Alfredo",
+                    "price": 180,
+                    "description": "Creamy white sauce pasta",
+                    "image": "./images/dishes/pastaalfredo.jpg",
+                    "category": "Italian"
+                },
+                {
+                    "id": 220,
+                    "name": "Cheese Garlic Bread",
                     "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "description": "Garlic bread with melted cheese",
+                    "image": "./images/dishes/cheesegarlicbread.jpg",
+                    "category": "Italian"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Food Court 5",
+            "image": "./images/foodCourts/foodcourt45.jpg",
+            "speciality": "Fast Food",
+            "cuisines": [
+                "Fast Food"
+            ],
+            "dishes": [
+                {
+                    "id": 221,
+                    "name": "Veg Burger",
+                    "price": 80,
+                    "description": "Vegetable patty in bun",
+                    "image": "./images/dishes/vegburger.jpg",
+                    "category": "Fast Food"
                 },
                 {
-                    "id": 125,
-                    "name": "Veg Hakka Noodles",
+                    "id": 222,
+                    "name": "French Fries",
+                    "price": 60,
+                    "description": "Crispy potato fries",
+                    "image": "./images/dishes/frenchfries.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 223,
+                    "name": "Veg Wrap",
+                    "price": 90,
+                    "description": "Vegetable wrap with sauce",
+                    "image": "./images/dishes/vegwrap.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 224,
+                    "name": "Onion Rings",
+                    "price": 70,
+                    "description": "Crispy fried onion rings",
+                    "image": "./images/dishes/onionrings.jpg",
+                    "category": "Fast Food"
+                },
+                {
+                    "id": 225,
+                    "name": "Soft Drink",
+                    "price": 40,
+                    "description": "Carbonated beverage",
+                    "image": "./images/dishes/softdrink.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Food Court 6",
+            "image": "./images/foodCourts/foodcourt46.jpg",
+            "speciality": "Healthy Food",
+            "cuisines": [
+                "Healthy"
+            ],
+            "dishes": [
+                {
+                    "id": 226,
+                    "name": "Quinoa Salad",
+                    "price": 120,
+                    "description": "Healthy salad with quinoa",
+                    "image": "./images/dishes/quinoasalad.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 227,
+                    "name": "Avocado Toast",
+                    "price": 100,
+                    "description": "Whole grain toast with avocado",
+                    "image": "./images/dishes/avocadotoast.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 228,
+                    "name": "Smoothie Bowl",
                     "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d",
-                    "category": "Chinese"
+                    "description": "Fruit smoothie in bowl with toppings",
+                    "image": "./images/dishes/smoothiebowl.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 229,
+                    "name": "Grilled Sandwich",
+                    "price": 90,
+                    "description": "Whole wheat sandwich with vegetables",
+                    "image": "./images/dishes/grilledsandwich.jpg",
+                    "category": "Healthy"
+                },
+                {
+                    "id": 230,
+                    "name": "Green Tea",
+                    "price": 40,
+                    "description": "Healthy herbal tea",
+                    "image": "./images/dishes/greentea.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Food Court 7",
+            "image": "./images/foodCourts/foodcourt47.jpg",
+            "speciality": "Desserts",
+            "cuisines": [
+                "Desserts"
+            ],
+            "dishes": [
+                {
+                    "id": 231,
+                    "name": "Chocolate Cake",
+                    "price": 100,
+                    "description": "Rich chocolate cake",
+                    "image": "./images/dishes/chocolatecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 232,
+                    "name": "Ice Cream Sundae",
+                    "price": 120,
+                    "description": "Ice cream with toppings",
+                    "image": "./images/dishes/icecreamsundae.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 233,
+                    "name": "Fruit Tart",
+                    "price": 90,
+                    "description": "Fresh fruit tart",
+                    "image": "./images/dishes/fruittart.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 234,
+                    "name": "Cheesecake",
+                    "price": 110,
+                    "description": "Creamy cheesecake",
+                    "image": "./images/dishes/cheesecake.jpg",
+                    "category": "Dessert"
+                },
+                {
+                    "id": 235,
+                    "name": "Milkshake",
+                    "price": 80,
+                    "description": "Thick milkshake",
+                    "image": "./images/dishes/milkshake.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Food Court 8",
+            "image": "./images/foodCourts/foodcourt48.jpg",
+            "speciality": "Beverages",
+            "cuisines": [
+                "Beverages"
+            ],
+            "dishes": [
+                {
+                    "id": 236,
+                    "name": "Fresh Juice",
+                    "price": 60,
+                    "description": "Freshly squeezed fruit juice",
+                    "image": "./images/dishes/freshjuice.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 237,
+                    "name": "Iced Tea",
+                    "price": 50,
+                    "description": "Chilled tea with lemon",
+                    "image": "./images/dishes/icedtea.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 238,
+                    "name": "Coffee",
+                    "price": 40,
+                    "description": "Hot brewed coffee",
+                    "image": "./images/dishes/coffee.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 239,
+                    "name": "Mojito",
+                    "price": 70,
+                    "description": "Mint lemonade",
+                    "image": "./images/dishes/mojito.jpg",
+                    "category": "Beverage"
+                },
+                {
+                    "id": 240,
+                    "name": "Hot Chocolate",
+                    "price": 60,
+                    "description": "Rich hot chocolate",
+                    "image": "./images/dishes/hotchocolate.jpg",
+                    "category": "Beverage"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Food Court 9",
+            "image": "./images/foodCourts/foodcourt49.jpg",
+            "speciality": "Snacks",
+            "cuisines": [
+                "Snacks"
+            ],
+            "dishes": [
+                {
+                    "id": 241,
+                    "name": "Samosa",
+                    "price": 40,
+                    "description": "Spiced potato filled pastry",
+                    "image": "./images/dishes/samosa.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 242,
+                    "name": "Pav Bhaji",
+                    "price": 80,
+                    "description": "Spiced vegetable curry with bread",
+                    "image": "./images/dishes/pavbhaji.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 243,
+                    "name": "Bhel Puri",
+                    "price": 60,
+                    "description": "Puffed rice snack with chutneys",
+                    "image": "./images/dishes/bhelpuri.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 244,
+                    "name": "Cutlet",
+                    "price": 50,
+                    "description": "Fried vegetable patty",
+                    "image": "./images/dishes/cutlet.jpg",
+                    "category": "Snack"
+                },
+                {
+                    "id": 245,
+                    "name": "Pakora",
+                    "price": 45,
+                    "description": "Deep-fried vegetable fritters",
+                    "image": "./images/dishes/pakora.jpg",
+                    "category": "Snack"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Food Court 10",
+            "image": "./images/foodCourts/foodcourt50.jpg",
+            "speciality": "Fusion Food",
+            "cuisines": [
+                "Fusion"
+            ],
+            "dishes": [
+                {
+                    "id": 246,
+                    "name": "Schezwan Dosa",
+                    "price": 100,
+                    "description": "Dosa with Chinese-style spicy filling",
+                    "image": "./images/dishes/schezwandosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 247,
+                    "name": "Pasta Biryani",
+                    "price": 150,
+                    "description": "Pasta cooked in biryani style",
+                    "image": "./images/dishes/pastabiryani.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 248,
+                    "name": "Pizza Dosa",
+                    "price": 120,
+                    "description": "Dosa topped with pizza ingredients",
+                    "image": "./images/dishes/pizzadosa.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 249,
+                    "name": "Chinese Bhel",
+                    "price": 80,
+                    "description": "Chinese-style chaat",
+                    "image": "./images/dishes/chinesebhel.jpg",
+                    "category": "Fusion"
+                },
+                {
+                    "id": 250,
+                    "name": "Italian Thali",
+                    "price": 200,
+                    "description": "Italian dishes served in thali style",
+                    "image": "./images/dishes/italianthali.jpg",
+                    "category": "Fusion"
                 }
             ]
         }

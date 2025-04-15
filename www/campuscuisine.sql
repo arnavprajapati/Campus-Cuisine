@@ -1,3 +1,12 @@
+-- Drop all the tables if they exist
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS dishes;
+DROP TABLE IF EXISTS food_court_cuisines;
+DROP TABLE IF EXISTS food_courts;
+DROP TABLE IF EXISTS blocks;
+DROP TABLE IF EXISTS registration;
+DROP TABLE IF EXISTS cuisines;
+
 -- Create the database if it doesn't exist
 CREATE DATABASE IF NOT EXISTS campuscuisine;
 USE campuscuisine;
@@ -33,17 +42,19 @@ CREATE TABLE IF NOT EXISTS food_courts (
     block_id VARCHAR(50),
     name VARCHAR(100) NOT NULL,
     speciality VARCHAR(100),
+    image VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     FOREIGN KEY (block_id) REFERENCES blocks(block_id) ON DELETE CASCADE
 );
 
--- Food Court Cuisines (Many-to-Many relationship)
+-- Cuisines table
 CREATE TABLE IF NOT EXISTS cuisines (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(50) UNIQUE NOT NULL
 );
 
+-- Food Court Cuisines (Many-to-Many relationship)
 CREATE TABLE IF NOT EXISTS food_court_cuisines (
     food_court_id INT,
     cuisine_id INT,
@@ -60,6 +71,7 @@ CREATE TABLE IF NOT EXISTS dishes (
     price DECIMAL(10,2) NOT NULL,
     description TEXT,
     category VARCHAR(50),
+    image VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     FOREIGN KEY (food_court_id) REFERENCES food_courts(id) ON DELETE CASCADE
@@ -81,15 +93,23 @@ CREATE TABLE IF NOT EXISTS reviews (
 -- Insert sample cuisines
 INSERT INTO cuisines (name) VALUES 
 ('South Indian'),
-('Chinese');
+('Chinese'),
+('North Indian'),
+('Italian'),
+('Fast Food'),
+('Healthy'),
+('Desserts'),
+('Beverages'),
+('Snacks'),
+('Fusion');
 
 -- Insert sample blocks
 INSERT INTO blocks (block_id, name, description, food_courts_count, capacity, gradient_class, icon) VALUES
-('block34', 'Block 34', 'Main Academic Area', 5, 'High Capacity', 'gradient-purple-blue', 'ri-building-2-line'),
-('block32', 'Block 32', 'Engineering Complex', 5, 'Medium Capacity', 'gradient-blue-cyan', 'ri-building-4-line'),
-('uniMall', 'Uni Mall', 'Shopping Complex', 5, 'Very High Capacity', 'gradient-indigo-purple', 'ri-store-2-line'),
-('block38', 'Block 38', 'Design Block', 5, 'Medium Capacity', 'gradient-pink-rose', 'ri-paint-brush-line'),
-('cseBlock', 'CSE Block', 'Computer Science', 5, 'High Capacity', 'gradient-cyan-blue', 'ri-computer-line');
+('block34', 'Block 34', 'Main Academic Area', 10, 'High Capacity', 'gradient-purple-blue', 'ri-building-2-line'),
+('block32', 'Block 32', 'Engineering Complex', 10, 'Medium Capacity', 'gradient-blue-cyan', 'ri-building-4-line'),
+('uniMall', 'Uni Mall', 'Shopping Complex', 10, 'Very High Capacity', 'gradient-indigo-purple', 'ri-store-2-line'),
+('block38', 'Block 38', 'Design Block', 10, 'Medium Capacity', 'gradient-pink-rose', 'ri-paint-brush-line'),
+('cseBlock', 'CSE Block', 'Computer Science', 10, 'High Capacity', 'gradient-cyan-blue', 'ri-computer-line');
 
 -- Create view for average dish ratings
 CREATE OR REPLACE VIEW dish_ratings AS
