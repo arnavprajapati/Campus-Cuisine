@@ -1,23 +1,25 @@
 <?php
-    session_start();
-    include 'connection.php';
+session_start();
+include 'connection.php';
 
-    use PHPMailer\PHPMailer\PHPMailer;
-    use PHPMailer\PHPMailer\Exception;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
 
-    require 'phpmailer/src/PHPMailer.php';
-    require 'phpmailer/src/SMTP.php';
-    require 'phpmailer/src/Exception.php';
+require 'phpmailer/src/PHPMailer.php';
+require 'phpmailer/src/SMTP.php';
+require 'phpmailer/src/Exception.php';
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Campus Cuisine</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
 </head>
+
 <body class="h-screen bg-white flex flex-col items-center justify-center p-4">
     <div class="w-full max-w-[360px] px-3">
         <div class="mb-8">
@@ -51,6 +53,7 @@
         </div>
     </div>
 </body>
+
 </html>
 
 <?php
@@ -85,7 +88,7 @@ if (isset($_POST['register'])) {
                 try {
                     $mail->isSMTP();
                     $mail->Host       = 'smtp.gmail.com';
-                    $mail->SMTPAuth   = true;
+                    $mail->SMTPAuth   =    true;
                     $mail->Username   = 'arnavprajapati3101@gmail.com';
                     $mail->Password   = 'etscefjdzaxbjroz';
                     $mail->SMTPSecure = 'ssl';
@@ -99,7 +102,7 @@ if (isset($_POST['register'])) {
                     $mail->Body    = "Hello $username,<br><br>
                     Thank you for registering at Campus Cuisine.<br>
                     Please click the link below to activate your account:<br><br>
-                    <a href='http://localhost/task5/activate.php?token=$token'>Activate Account</a><br><br>
+                    <a href='http://campus-cuisine.onrender.com/activate.php?token=$token'>Activate Account</a><br><br>
                     If you did not request this, please ignore this email.<br><br>
                     Regards,<br>Campus Cuisine Team";
 
