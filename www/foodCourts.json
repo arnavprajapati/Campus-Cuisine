@@ -11,19 +11,19 @@
             "dishes": [
                 {
                     "id": 1,
-                    "name": "Masala Dosa",
-                    "price": 120,
+                    "name": "Chhole Bhature",
+                    "price": 60,
                     "description": "Crispy dosa with potato filling",
-                    "image": "./images/dishes/dosa.jpg",
-                    "category": "South Indian"
+                    "image": "https://nfcihospitality.com/wp-content/uploads/2019/04/chole-bhture.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 2,
-                    "name": "Idli Sambar",
-                    "price": 80,
-                    "description": "Soft idlis with sambar",
-                    "image": "./images/dishes/idli.jpg",
-                    "category": "South Indian"
+                    "name": "Nutri Kulcha",
+                    "price": 60,
+                    "description": "Nutri Kulcha",
+                    "image": "https://pammiskitchen.weebly.com/uploads/1/9/5/8/19588653/2_68_orig.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 3,
