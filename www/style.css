@@ -1,3 +1,8 @@
+@font-face {
+    font-family: american;
+    src: url('/www/font/American\ Typewriter\ Regular.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -70,6 +75,11 @@ body {
 .page-header {
     margin-bottom: 2rem;
 }
+
+.title p{
+    font-family: american;
+}
+
 
 .section-title {
     font-family: 'Playfair Display', serif;
