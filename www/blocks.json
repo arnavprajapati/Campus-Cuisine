@@ -7,16 +7,16 @@
         "gradientClass": "gradient-purple-blue",
         "icon": "ri-building-2-line"
     },
-    "block32": {
-        "name": "Block 32",
+    "block34": {
+        "name": "Block 34",
         "description": "Engineering Complex",
         "foodCourts": 10,
         "capacity": "Medium Capacity",
         "gradientClass": "gradient-blue-cyan",
         "icon": "ri-building-4-line"
     },
-    "uniMall": {
-        "name": "Uni Mall",
+    "Agriculture": {
+        "name": "Agriculture",
         "description": "Shopping Complex",
         "foodCourts": 10,
         "capacity": "Very High Capacity",

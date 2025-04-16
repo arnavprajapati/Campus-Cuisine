@@ -105,9 +105,9 @@ INSERT INTO cuisines (name) VALUES
 
 -- Insert sample blocks
 INSERT INTO blocks (block_id, name, description, food_courts_count, capacity, gradient_class, icon) VALUES
-('BH1', 'BH1', 'Main Academic Area', 10, 'High Capacity', 'gradient-purple-blue', 'ri-building-2-line'),
-('block32', 'Block 32', 'Engineering Complex', 10, 'Medium Capacity', 'gradient-blue-cyan', 'ri-building-4-line'),
-('uniMall', 'Uni Mall', 'Shopping Complex', 10, 'Very High Capacity', 'gradient-indigo-purple', 'ri-store-2-line'),
+('BH1', 'BH1', 'Sport Complex', 10, 'High Capacity', 'gradient-purple-blue', 'ri-building-2-line'),
+('block34', 'Block 34', 'Engineering Complex', 10, 'Medium Capacity', 'gradient-blue-cyan', 'ri-building-4-line'),
+('Agriculture', 'Agriculture', 'Agriculture Complex', 10, 'Very High Capacity', 'gradient-indigo-purple', 'ri-store-2-line'),
 ('block38', 'Block 38', 'Design Block', 10, 'Medium Capacity', 'gradient-pink-rose', 'ri-paint-brush-line'),
 ('cseBlock', 'CSE Block', 'Computer Science', 10, 'High Capacity', 'gradient-cyan-blue', 'ri-computer-line');
 

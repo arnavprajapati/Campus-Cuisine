@@ -15,29 +15,29 @@ INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
 
 -- Insert Food Courts for Block 32
 INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
-(11, 'block32', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt11.jpg'),
-(12, 'block32', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt12.jpg'),
-(13, 'block32', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt13.jpg'),
-(14, 'block32', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt14.jpg'),
-(15, 'block32', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt15.jpg'),
-(16, 'block32', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt16.jpg'),
-(17, 'block32', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt17.jpg'),
-(18, 'block32', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt18.jpg'),
-(19, 'block32', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt19.jpg'),
-(20, 'block32', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt20.jpg');
+(11, 'block34', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt11.jpg'),
+(12, 'block34', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt12.jpg'),
+(13, 'block34', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt13.jpg'),
+(14, 'block34', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt14.jpg'),
+(15, 'block34', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt15.jpg'),
+(16, 'block34', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt16.jpg'),
+(17, 'block34', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt17.jpg'),
+(18, 'block34', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt18.jpg'),
+(19, 'block34', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt19.jpg'),
+(20, 'block34', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt20.jpg');
 
 -- Insert Food Courts for Uni Mall
 INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
-(21, 'uniMall', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt21.jpg'),
-(22, 'uniMall', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt22.jpg'),
-(23, 'uniMall', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt23.jpg'),
-(24, 'uniMall', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt24.jpg'),
-(25, 'uniMall', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt25.jpg'),
-(26, 'uniMall', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt26.jpg'),
-(27, 'uniMall', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt27.jpg'),
-(28, 'uniMall', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt28.jpg'),
-(29, 'uniMall', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt29.jpg'),
-(30, 'uniMall', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt30.jpg');
+(21, 'Agriculture', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt21.jpg'),
+(22, 'Agriculture', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt22.jpg'),
+(23, 'Agriculture', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt23.jpg'),
+(24, 'Agriculture', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt24.jpg'),
+(25, 'Agriculture', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt25.jpg'),
+(26, 'Agriculture', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt26.jpg'),
+(27, 'Agriculture', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt27.jpg'),
+(28, 'Agriculture', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt28.jpg'),
+(29, 'Agriculture', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt29.jpg'),
+(30, 'Agriculture', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt30.jpg');
 
 -- Insert Food Courts for Block 38
 INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
