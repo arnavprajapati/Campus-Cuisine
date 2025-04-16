@@ -112,15 +112,15 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <h2>Food Type</h2>
                                 <div class="info">
                                     <div class="nav-item" onclick="showMaintenanceMessage()">
-                                        <i class="ri-time-fill"></i>
+                                        <div style="width: 8px; height: 8px; background-color: #FF7043 ;border-radius: 50%;"></div>
                                         <p>North Indian</p>
                                     </div>
                                     <div class="nav-item" onclick="showMaintenanceMessage()">
-                                        <i class="ri-time-fill"></i>
+                                        <div style="width: 8px; height: 8px; background-color: #43A047;border-radius: 50%;"></div>
                                         <p>South Indian</p>
                                     </div>
                                     <div class="nav-item" onclick="showMaintenanceMessage()">
-                                        <i class="ri-time-fill"></i>
+                                        <div style="width: 8px; height: 8px; background-color: #D32F2F;border-radius: 50%;"></div>
                                         <p>Chinese</p>
                                     </div>
                                 </div>
