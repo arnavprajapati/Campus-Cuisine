@@ -28,6 +28,3 @@ The system is built using the following technologies:
 - **Database**: MySQL
 - **Containerization**: Docker
 - **Database Management**: phpMyAdmin
-
----
-z
