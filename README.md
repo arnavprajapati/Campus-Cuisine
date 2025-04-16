@@ -30,6 +30,4 @@ The system is built using the following technologies:
 - **Database Management**: phpMyAdmin
 
 ---
-
-## Project Structure 🔧
-
+z
