@@ -99,18 +99,18 @@ document.addEventListener('DOMContentLoaded', () => {
             <p id="usernames"> <?php echo $_SESSION['username']; ?> </p>
         </div>
         <div class="detail">
-            <div class="data">
-                <i class="ri-user-settings-line"></i>
-                <p>My Profile</p>
-            </div>
-            <div class="data">
-                <i class="ri-chat-1-fill"></i>
-                <p>Your Experience</p>
-            </div>
-            <div class="data">
-                <i class="ri-key-2-fill"></i>
-                <p>Change Password</p>
-            </div>
+            // <div class="data">
+            //     <i class="ri-user-settings-line"></i>
+            //     <p>My Profile</p>
+            // </div>
+            // <div class="data">
+            //     <i class="ri-chat-1-fill"></i>
+            //     <p>Your Experience</p>
+            // </div>
+            // <div class="data">
+            //     <i class="ri-key-2-fill"></i>
+            //     <p>Change Password</p>
+            // </div>
             <a class="data logout" href="logout.php">  
                 <i class="ri-logout-box-r-line"></i>
                 <p>Logout</p>
