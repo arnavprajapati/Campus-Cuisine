@@ -13,7 +13,7 @@
                     "id": 1,
                     "name": "Chhole Bhature",
                     "price": 60,
-                    "description": "Crispy dosa with potato filling",
+                    "description": "Spicy chickpeas served with deep-fried bhature",
                     "image": "https://nfcihospitality.com/wp-content/uploads/2019/04/chole-bhture.jpg",
                     "category": "North Indian"
                 },
@@ -21,33 +21,33 @@
                     "id": 2,
                     "name": "Nutri Kulcha",
                     "price": 60,
-                    "description": "Nutri Kulcha",
+                    "description": "Soya-based protein curry served with soft kulchas",
                     "image": "https://pammiskitchen.weebly.com/uploads/1/9/5/8/19588653/2_68_orig.jpg",
                     "category": "North Indian"
                 },
                 {
                     "id": 3,
-                    "name": "Uttapam",
-                    "price": 100,
-                    "description": "South Indian pizza with toppings",
-                    "image": "./images/dishes/uttapam.jpg",
-                    "category": "South Indian"
+                    "name": "Cheese Naan",
+                    "price": 60,
+                    "description": "Soft Indian bread stuffed with melted cheese",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxJ9c4t4Z3JOrBk4ac0hgXuD5H-HHmgUYN-g&s",
+                    "category": "North Indian"
                 },
                 {
                     "id": 4,
-                    "name": "Vada",
+                    "name": "Afghani Chaap",
                     "price": 60,
-                    "description": "Crispy lentil doughnuts",
-                    "image": "./images/dishes/vada.jpg",
-                    "category": "South Indian"
+                    "description": "Creamy soya chaap marinated in Afghani spices and grilled",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5E8oUMXddOvHb4wd1ObFvwVAeu7l7C9MtyDaQwY6Rx3eX_abcFSbLWBevTROmDWaL_qcfNp6h0hAaAymYsH6pIUsQ_WDhH94uCJMlRIEgZpf-0tLrMs40pGPZUaUhi9c-1SHrjqTiu1gG2_D79OdmjRYLV31IwJm0McRDJ8y8tZI9130CiyTUuPg9zE3I/w1200-h630-p-k-no-nu/IMG20231106135633.jpg",
+                    "category": "North Indian"
                 },
                 {
                     "id": 5,
-                    "name": "Pongal",
-                    "price": 90,
-                    "description": "Rice and lentil porridge",
-                    "image": "./images/dishes/pongal.jpg",
-                    "category": "South Indian"
+                    "name": "Chana Kulcha",
+                    "price": 60,
+                    "description": "Tangy chickpeas served with fluffy kulchas",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLwS5nPH3obbxOvgFudyGpcTZbfHuiQshmQ&s",
+                    "category": "North Indian"
                 }
             ]
         },
