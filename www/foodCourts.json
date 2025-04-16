@@ -55,7 +55,7 @@
             "id": 2,
             "name": "Food Court 2",
             "image": "./images/bh1/2.jpg",
-            "speciality": "Noodle + Honey Chilly Potato",
+            "speciality": "Noodle + Chilly Potato",
             "cuisines": [
                 "Indo - Chinese"
             ],
