@@ -62,42 +62,42 @@
             "dishes": [
                 {
                     "id": 6,
-                    "name": "Rava Dosa",
-                    "price": 130,
-                    "description": "Crispy semolina dosa",
-                    "image": "./images/dishes/ravadosa.jpg",
+                    "name": "Noodle + Manchurian",
+                    "price": 70,
+                    "description": "A flavorful combo of stir-fried noodles and crispy vegetable Manchurian.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7S9wOSvVspSKl6tcmjxi3J9E509mYxM4BcA&s",
                     "category": "South Indian"
                 },
                 {
                     "id": 7,
-                    "name": "Medu Vada",
+                    "name": "Noodle + French Fries",
                     "price": 70,
-                    "description": "Soft lentil doughnuts",
-                    "image": "./images/dishes/meduvada.jpg",
+                    "description": "A fun fusion of Indo-Chinese noodles served with crispy French fries.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEAggyTtSlIPGAcLXpC5Rm9mm-YOGKT6d2l1mfRo-hSWXoGTWyp0kFoQEU2jSwdRfAAo&usqp=CAU",
                     "category": "South Indian"
                 },
                 {
                     "id": 8,
-                    "name": "Upma",
-                    "price": 80,
-                    "description": "Semolina breakfast dish",
-                    "image": "./images/dishes/upma.jpg",
+                    "name": "Steam Momos",
+                    "price": 50,
+                    "description": "Soft, steamed dumplings filled with a spiced vegetable mix.",
+                    "image": "https://www.recipefunnel.com/images/recipe/veg-momos-recipe-1650703323068.webp?compress=false",
                     "category": "South Indian"
                 },
                 {
                     "id": 9,
-                    "name": "Pesarattu",
-                    "price": 110,
-                    "description": "Green gram dosa",
-                    "image": "./images/dishes/pesarattu.jpg",
+                    "name": "Spring Roll",
+                    "price": 60,
+                    "description": "Crispy fried rolls filled with seasoned vegetables.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-lpG6vB4eiWs6TiXIxgctqh0FyWfKbmpmA&s",
                     "category": "South Indian"
                 },
                 {
                     "id": 10,
-                    "name": "Bisi Bele Bath",
-                    "price": 120,
-                    "description": "Spicy rice and lentil dish",
-                    "image": "./images/dishes/bisibelebath.jpg",
+                    "name": "Paneer Burger",
+                    "price": 50,
+                    "description": "A juicy burger with a spicy paneer patty, served in a toasted bun.",
+                    "image": "https://ziromart.in/wp-content/uploads/2024/11/paneer-burger1.jpg",
                     "category": "South Indian"
                 }
             ]
