@@ -65,15 +65,15 @@
                     "name": "Noodle + Manchurian",
                     "price": 70,
                     "description": "A flavorful combo of stir-fried noodles and crispy vegetable Manchurian.",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7S9wOSvVspSKl6tcmjxi3J9E509mYxM4BcA&s",
+                    "image": "https://i.ytimg.com/vi/9y2B9n7vbYw/maxresdefault.jpg",
                     "category": "South Indian"
                 },
                 {
                     "id": 7,
-                    "name": "Noodle + French Fries",
+                    "name": "Noodle + Honey Chilly Potato",
                     "price": 70,
                     "description": "A fun fusion of Indo-Chinese noodles served with crispy French fries.",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEAggyTtSlIPGAcLXpC5Rm9mm-YOGKT6d2l1mfRo-hSWXoGTWyp0kFoQEU2jSwdRfAAo&usqp=CAU",
+                    "image": "https://i.pinimg.com/736x/72/19/d9/7219d979e3e9d09dece39e21013477fa.jpg",
                     "category": "South Indian"
                 },
                 {
