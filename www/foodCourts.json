@@ -55,9 +55,9 @@
             "id": 2,
             "name": "Food Court 2",
             "image": "./images/bh1/2.jpg",
-            "speciality": "Idli Sambar",
+            "speciality": "Noodle + Honey Chilly Potato",
             "cuisines": [
-                "South Indian"
+                "Indo - Chinese"
             ],
             "dishes": [
                 {
@@ -66,7 +66,7 @@
                     "price": 70,
                     "description": "A flavorful combo of stir-fried noodles and crispy vegetable Manchurian.",
                     "image": "https://i.ytimg.com/vi/9y2B9n7vbYw/maxresdefault.jpg",
-                    "category": "South Indian"
+                    "category": "Indo-Chinese"
                 },
                 {
                     "id": 7,
@@ -74,7 +74,7 @@
                     "price": 70,
                     "description": "A fun fusion of Indo-Chinese noodles served with crispy French fries.",
                     "image": "https://i.pinimg.com/736x/72/19/d9/7219d979e3e9d09dece39e21013477fa.jpg",
-                    "category": "South Indian"
+                    "category": "Indo-Chinese"
                 },
                 {
                     "id": 8,
@@ -82,7 +82,7 @@
                     "price": 50,
                     "description": "Soft, steamed dumplings filled with a spiced vegetable mix.",
                     "image": "https://www.recipefunnel.com/images/recipe/veg-momos-recipe-1650703323068.webp?compress=false",
-                    "category": "South Indian"
+                    "category": "Indo-Chinese"
                 },
                 {
                     "id": 9,
@@ -90,7 +90,7 @@
                     "price": 60,
                     "description": "Crispy fried rolls filled with seasoned vegetables.",
                     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-lpG6vB4eiWs6TiXIxgctqh0FyWfKbmpmA&s",
-                    "category": "South Indian"
+                    "category": "Indo-Chinese"
                 },
                 {
                     "id": 10,
@@ -98,7 +98,7 @@
                     "price": 50,
                     "description": "A juicy burger with a spicy paneer patty, served in a toasted bun.",
                     "image": "https://ziromart.in/wp-content/uploads/2024/11/paneer-burger1.jpg",
-                    "category": "South Indian"
+                    "category": "Indo-Chinese"
                 }
             ]
         },
@@ -106,50 +106,50 @@
             "id": 3,
             "name": "Food Court 3",
             "image": "./images/bh1/3.jpg",
-            "speciality": "Veg Fried Rice",
+            "speciality": "Farm Villa Pizza",
             "cuisines": [
-                "Chinese"
+                "Italian"
             ],
             "dishes": [
                 {
                     "id": 11,
-                    "name": "Veg Fried Rice",
-                    "price": 150,
-                    "description": "Wok-tossed rice with vegetables",
-                    "image": "./images/dishes/friedrice.jpg",
-                    "category": "Chinese"
+                    "name": "Cheese Corn Pizza",
+                    "price": 110,
+                    "description": "Pizza topped with cheese and sweet corn",
+                    "image": "https://cdn.dotpe.in/longtail/store-items/6385438/8GEXmssz.jpeg",
+                    "category": "Italian"
                 },
                 {
                     "id": 12,
-                    "name": "Veg Noodles",
-                    "price": 140,
-                    "description": "Stir-fried noodles with vegetables",
-                    "image": "./images/dishes/noodles.jpg",
-                    "category": "Chinese"
+                    "name": "Spicy Panner Burger",
+                    "price": 50,
+                    "description": "Burger with spicy paneer patty and veggies",
+                    "image": "https://mcdonaldsblog.in/wp-content/uploads/2016/06/mcspicy-paneer-1-1.jpg",
+                    "category": "Fast Food"
                 },
                 {
                     "id": 13,
-                    "name": "Veg Manchurian",
-                    "price": 160,
-                    "description": "Vegetable balls in spicy sauce",
-                    "image": "./images/dishes/manchurian.jpg",
-                    "category": "Chinese"
+                    "name": "Red Sauce Pasta",
+                    "price": 70,
+                    "description": "Pasta cooked in rich tomato-based red sauce",
+                    "image": "https://aartimadan.com/wp-content/uploads/2020/09/red-sauce-pasta-blog-4.jpg",
+                    "category": "Italian"
                 },
                 {
                     "id": 14,
-                    "name": "Spring Rolls",
+                    "name": "Farm Villa Pizza",
                     "price": 120,
-                    "description": "Crispy vegetable rolls",
-                    "image": "./images/dishes/springrolls.jpg",
-                    "category": "Chinese"
+                    "description": "Veg pizza loaded with farm-fresh vegetables",
+                    "image": "https://cdn.uengage.io/uploads/5/image-456664-1726728787.jpeg",
+                    "category": "Italian"
                 },
                 {
                     "id": 15,
-                    "name": "Veg Hakka Noodles",
-                    "price": 150,
-                    "description": "Spicy stir-fried noodles",
-                    "image": "./images/dishes/hakkanoodles.jpg",
-                    "category": "Chinese"
+                    "name": "Magic Mushroom Pizza",
+                    "price": 120,
+                    "description": "Pizza topped with mushrooms and melted cheese",
+                    "image": "https://images-gmi-pmc.edge-generalmills.com/ae78b3cf-4950-44f4-ad37-8fbf78f4eec3.jpg",
+                    "category": "Italian"
                 }
             ]
         },
