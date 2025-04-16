@@ -2,16 +2,16 @@ USE campuscuisine;
 
 -- Insert Food Courts for Block 34
 INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
-(1, 'block34', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt1.jpg'),
-(2, 'block34', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt2.jpg'),
-(3, 'block34', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt3.jpg'),
-(4, 'block34', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt4.jpg'),
-(5, 'block34', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt5.jpg'),
-(6, 'block34', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt6.jpg'),
-(7, 'block34', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt7.jpg'),
-(8, 'block34', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt8.jpg'),
-(9, 'block34', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt9.jpg'),
-(10, 'block34', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt10.jpg');
+(1, 'BH1', 'Food Court 1', 'South Indian Specialties', './images/foodCourts/foodcourt1.jpg'),
+(2, 'BH1', 'Food Court 2', 'Chinese Delights', './images/foodCourts/foodcourt2.jpg'),
+(3, 'BH1', 'Food Court 3', 'North Indian Cuisine', './images/foodCourts/foodcourt3.jpg'),
+(4, 'BH1', 'Food Court 4', 'Italian Flavors', './images/foodCourts/foodcourt4.jpg'),
+(5, 'BH1', 'Food Court 5', 'Fusion Food', './images/foodCourts/foodcourt5.jpg'),
+(6, 'BH1', 'Food Court 6', 'Fast Food', './images/foodCourts/foodcourt6.jpg'),
+(7, 'BH1', 'Food Court 7', 'Healthy Bites', './images/foodCourts/foodcourt7.jpg'),
+(8, 'BH1', 'Food Court 8', 'Dessert Corner', './images/foodCourts/foodcourt8.jpg'),
+(9, 'BH1', 'Food Court 9', 'Beverage Bar', './images/foodCourts/foodcourt9.jpg'),
+(10, 'BH1', 'Food Court 10', 'Snack Zone', './images/foodCourts/foodcourt10.jpg');
 
 -- Insert Food Courts for Block 32
 INSERT INTO food_courts (id, block_id, name, speciality, image) VALUES
