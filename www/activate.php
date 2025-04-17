@@ -22,7 +22,7 @@
                     </script>
                 <?php
             }else{
-                $_SESSION['message'] = "you are logged out/";
+                $_SESSION['message'] = "you are logged out";
                 ?>
                     <script>
                         window.location.href = 'login.php';
