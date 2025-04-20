@@ -28,8 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p>CUISINE</p>
                     </div>
                     <div class="description">
-                        <p>There are many variations of passages of Lorem Ipsum available, but
-                            the majority have suffered alteration in some form, by injected humour, or randomised words</p>
+                        <p>At LPU, our food courts are the heart of campus dining With our new Food Court Review System, you can share your feedback, rate your favorite dishes, and help us improve the dining experience for everyone. Join the community, leave a review, and let's make campus dining even better!</p>
                     </div>
                     <div class="btn">
                         <a class="explore-btn" id="btn1" href="signup.php">Explore Now</a>
