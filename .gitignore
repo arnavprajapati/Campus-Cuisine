@@ -1,11 +1,1 @@
 .env
-phpmailer
-get_blocks.php
-get_dish.php
-get_dishes.php
-get_food_courts.php
-get_foodcourt.php
-get_foodcourts_ratings.php
-get_foodcourt_rating.php
-get_food_court.php
-get_dish_rating.php
