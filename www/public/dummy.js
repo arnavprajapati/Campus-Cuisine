@@ -5,7 +5,6 @@
 // dummy JS line 5
 // dummy JS line 6
 // dummy JS line 7
-// dummy JS line 8
 // dummy JS line 9
 // dummy JS line 10
 // dummy JS line 11
